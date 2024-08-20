@@ -1,0 +1,2027 @@
+﻿  @[  툪5툃 쵕騏, ?턅 혟툃킕п톩 탗닯??
+
+  @[  1. 떓 큖릟
+
+  @[  (1) 떓톓 쥏봞.
+
+    촡쐑킕덦 쟧톓 덆봞.
+  Excuse me.
+  (?쓠?뱻봞.)
+  Excuse me, but...
+  Sorry to trouble you, but...
+  I beg your pardon, but...
+  (?쓠?뱻봞쟢...)
+  I'm lost. Are you familiar with this area?
+  (멜밻 떓톓 럭덕칢뱻봞. 래 빨킶 빨윞킕 쨓톋?뱻똞?)
+
+    늏밻 쨢ㆃ톓 쥏봞.
+  Could you tell me the way to the subway station?
+  (빨?잰킶톋씉 늏밻 떓톓 늏웏햌 틒?뎈칢뱻똞?)
+  Can you direct me to the Hilton Hotel?
+  (旦?朞?씉 늏밻 떓톓 늏웏햌 틒?뎈칢뱻똞?)
+  Will you show me the way to the post office?
+  (턿핤뒄톋씉 늏밻 떓톓 늏웏햌 틒?뎈칢뱻똞?)
+
+    떓톓 쥏봞.
+  Does this road go to the railroad (or railway) station?
+  (래 떓래 떋픞킶톋씉 늏밻 떓럼뱻똞?)
+  Am I on the right road for Wall Street?
+  (땐칊?윞?밻 래 떓씉 늏죇 뻊뱻똞?)
+  Which way is it to the American Theater?
+  (큑좥윞훒 땈툃톏 닯밶 떓씉 늮뱻똞?)
+  Which of these streets goes to the Hilton Hotel?
+  (旦? 朞?똞빨밻 닯밶 떓씉 늏뇟 ?뱻똞?)
+
+    빨웥떓톓 쥏봞.
+  Could you tell me the shortest way to the station?
+  (킶똞빨톩 빨웥떓톓 늏웏햌 틒?뎈칢뱻똞?)
+  Which is best way to get to Park Avenue?
+  (??늏씉 늏쓆죇 닯밶 떓씉 늏밻 덒래 늏툃 뭣칢뱻똞?)
+
+    툃?웙 쥏봞.
+  What's the name of this street?
+  (래 떓톩 래웥톏 쥈더럼뱻똞?)
+  Could you tell me where the post office is?
+  (턿핤뒄래 닯뿠킕 렀밻빨 늏웏햌 틒?뎈칢뱻똞?)
+  Where can I find the bank?
+  (톏?톏 닯뿠킕 렀칢뱻똞?)
+  Excuse me, but is there a book-store near here?
+  (?쓠?뱻봞, 래 땎잠킕 п목래 렀칢뱻똞?)
+  Is it close to the hotel?
+  Is it near the hotel?
+  (땇 돲래 朞?돿 늏똲칢뱻똞?)
+
+    닯밶 숱램늏 쥏봞.
+  Which side of the street is it on?
+  (땇덒톏 떓톩 닯밶 숱킕 렀칢뱻똞?)
+  Is it on this side of the street?
+  (땇덒래 래숱킕 렀칢뱻똞?)
+  Is it on the other side of the street?
+  (땇덒톏 떓 덂먤?킕 렀칢뱻똞?)
+
+    빨븸웙 땇쓆 봧쏿돘 ?봞.
+  Could you draw me a map, please?
+  (빨븸웙 땇쓆 틒?뎈칢뱻똞?)
+  Where am I now on this map?
+  (래 빨븸씉 ⅸ 쁺 빨땞 멜톩 뜬찼밻 닯뿠럼뱻똞?)
+  Where can I get a map of London?
+  (쒎붷톩 빨븸밻 닯뿠п 뒃? 츃 렀칢뱻똞?)
+
+    늫촡톩 봲쩯
+  Thank you very much for your kindness.
+  (책면?덦 봺? 틒춁п 늫촡?뱻봞.)
+  Thank you for your help.
+  (븸텘 틒춁п 늫촡?뱻봞.)
+      ------------
+  @[  (2) 떓톓 늏웏햌 틒봞.
+
+    떓 츉п웙 늏웏햌 틒봞.
+  Go along this street.
+  (래 떓톓 쁝쏿п 돣툃 늏??덧.)
+
+    솫쨅씉 늏봞.
+  Keep going straight.
+  (돣툃 늏??덧.)
+  Follow this street and you will come on it.
+  (래 떓톓 뎮? 늏죇 댾떋늏 륾뎨뱻봞.)
+  Go south (north) for two blocks.
+  (릕"쫩"씉 2쬲씊 늏??덧.)
+  Go straight until you come to a traffic light.
+  (?朞뾵똞빨 솫쨅씉 늏??덧.)
+  Carry on past the second corner.
+  (2ㅵ펯 　?래웙 빨륾늏??덧.)
+
+    빀큑늏봞.
+  Turn right (left) at the first corner.
+  (쟘 ㅵ펯 　?래킕п 덧웕숱"턉숱"씉 빀죇 뻊뱻봞.)
+  Turn right (left) at the intersection.
+  (둧픞씉킕п 덧웕숱"턉숱"씉 빀죇 뻊뱻봞.)
+  Turn left (right) at the third traffic light 
+  (쵡 ㅵ펯 ?朞뾵킕п 턉숱"덧웕숱"씉 빀죇 뻊뱻봞.)
+  Go left (right) here for three blocks.
+  (킳떋п 턉숱"덧웕숱"씉 쵡 쬲쒋 몹븸 늏??덧.)
+
+    ⅱ퇿? 떓 츉п
+  Turn right at the second corner, and you'll find it right ahead of you.
+  (뻶 ㅵ펯 　?래킕п 덧웕숱톋씉 빀죇 몹죇킕 렀칢뱻봞.)
+  Turn left at the next corner and go straight for two blocks. It's the 
+second building from the corner.
+  (봞톛 　?래킕п 턉숱톋씉 빀큑п 뻶 쬲씊톓 돣툃 늏??덧. 땇 　?래씉쫨휼 뻶 
+ㅵ펯 덂쥒럼뱻봞.)
+  Go north for three blocks. Turn right and walk one block east. It's on the 
+corner of 7th Street and Park Avenue.
+  (쫩숱톋씉 쵡 쬲씊 늏п 덧웕숱톋씉 빀큑 ? 쬲씊 빓숱톋씉 늏??덧. 7ㅵ늏돝 
+??늏톩 　?래킕 렀칢뱻봞.)
+
+    툃?웙 늏웏햌 틒봞.
+  It's across the street from the post office.
+  (턿핤뒄 쟸톏 ?럼뱻봞.)
+  It's on this side of the station building.
+  (킶 덂쥒 쨅씉 ?럼뱻봞.)
+  City Hall is across the street in front of the exit of the station.
+  (킶톩 늸픦뒃 ? 떓 덂먤?킕 ?쟤래 렀칢뱻봞.)
+  It's beyond the station building.
+  (킶 덂쥒톓 빨륾п 렀칢뱻봞.)
+
+    죣 ㅵ펯
+  It's next door to City Hall.
+  (?쟤 ?럼뱻봞.)
+  It's the second house (or building) from the corner.
+  It's two doors from the corner.
+  (　?래씉쫨휼 뻶 ㅵ펯 뺙럼뱻봞.)
+
+    덆닯п 죣 쫭
+  It's 10 minutes' walk from the subway station.
+  (빨?잰킶톋씉쫨휼 덆닯п 10쫭 덆윞밻 돲럼뱻봞.)
+  It's 20 minutes' walk to the station.
+  (몹댾툃똞빨 덆닯п 20쫭럼뱻봞.) @ff
+  @[  2. ?밻 덒
+
+  @[  (1) ㎕?떋킕п
+
+    ?칦 츃?톓 ?봞.
+  Do you know which way departure lounge is?
+  (혟쨒?밻 돲래 닯밶 숱램빨 큑?뱻똞?)
+  Could you tell me where the ticket counters are?
+  (핤?램 훍텈휼밻 닯뿠킕 렀밻빨 쟧쿿? 틒?뎈칢뱻똞?)
+  I want to confirm my ticket reservation.
+  (?돴뒫톩 탛뇨 豈램톓 ?돘 ?칢뱻봞.)
+  When shall I check in?
+  (?칦 츃?톏 닷툪쫨휼럼뱻똞?)
+  When is the boarding time?
+  (㎕?떋 ?칦 ?늖톏 닷툪럼뱻똞?)
+  Which gate shall I go to?
+  Which is our boarding gate?
+  (?칦뒃밻 죣 ㅵ럼뱻똞?)
+  Can I check the baggage here?
+  (뺑톏 킳떋п 핤??뱻똞?)
+
+    뮐р톓 豈램?봞.
+  I'd like window seat, please.
+  (픴숱톩 퇫윞웙 쫨??뱻봞.)
+  Do you have a smoking seat?
+  (?킻р톏 렀칢뱻똞?)
+  Where's my seat, please?
+  (툪 퇫윞밻 닯뿠럼뱻똞?)
+  Is this a nonsmoking seat?
+  (킳떋밻 땞킻р럼뱻똞?)
+  Can I smoke here?
+  (킳떋п 봰쨦 區땀븸 뻊뱻똞?)
+  May I change my seat?
+  (뮐р톓 쨅렊븸 됧픤칢뱻똞?)
+
+    큖멨쩒? 쟻밻 쨢ㆃ톓 뾥봞.
+  Can you show me how to fasten this seat belt?
+  (큖멨쩒? 쟻밻 쨢ㆃ톓 늏웏햌 틒?뎈칢뱻똞?)
+
+    뮐р톓 뮄丹밻 쨢ㆃ톓 뾥봞.
+  How can I get my seat to recline?
+  (뮐р톓 뮄丹쓆죇 닯섫덦 ?뇟 ?뱻똞?)
+
+    譏툃?킕 늏봞.
+  May I go to the toilet now?
+  (빨땞, 譏툃?킕 늏븸 됧픤칢뱻똞?)
+  Are the toilets occupied?
+  (譏툃?톏 촡턻 틭럼뱻똞?)
+
+    ㎕??늖톓 쥏봞.
+  How many hours does the flight take?
+  (㎕??늖톏 닯밶 몹븸럼뱻똞?)
+
+    떋릟 п㎕칊웙 쫨??봞.
+  Are you serving a meal on this flight?
+  (래 ㎕?떋킕п밻 ?촡 п㎕칊늏 렀칢뱻똞?)
+  May I have some juice?
+  (틒칊웙 틒?뎈칢뱻똞?)
+  May I have a magazine or something?
+  (퇿빨륾 랴톓 댾윞늏 렀칢뱻똞?)
+  Do you have a Korean newspaper?
+  (?뒄 ?쥌톏 렀칢뱻똞?)
+  Could you bring me some earphones?
+  (래닯磎톓 틒?뎈칢뱻똞?)
+  Could you get me a blanket, please.?
+  (봰턠웙 틒?뎈칢뱻똞?)
+
+    떋릟 쟻목킕п톩 췢狗
+  I'd like to buy two cartons of Kent.
+  (휛?씉 뻶 늮톓 촡돘 ?칢뱻봞.)
+  I'd like to buy three bottles of liquor.
+  (츎 쵡 쪂톓 촡돘 ?칢뱻봞.)
+  How many bottles can I take duty-free?
+  (츎톏 죣 쪂똞빨 죇쵡씉 늏퉍늝 츃 렀칢뱻똞?)
+
+    떋쫭래 뭣빨 큙톓 쁺
+  I feel sick. Can I get some medicine?
+  (떋쫭래 뭣빨 큙톏뷒 뇨톓 틒?뎈칢뱻똞?)
+      ------------
+  @[  (2) 잰븸돝 ㅱ칊씉
+
+    둧떋됃톓 쥏봞.
+  How can I go there, by subway or bus?
+  (댾떋킕 늏쓆죇 빨?잰톓 ?뇟 ?뱻똞? 큑뱻죇 ㅱ칊웙 ?뇟 ?뱻똞?)
+  Which is better, to go by bus or taxi?
+  (ㅱ칊돝 ?? 틭 쥈더톋씉 늏밻 덒래 뭣칢뱻똞?)
+  Is there any other way to go besides subway?
+  (빨?잰 턅킕 봞웕 덒톋씉 늏밻 쨢ㆃ래 렀칢뱻똞?)
+  Can I go there on foot?
+  (댾떋똞빨 덆닯п 늝 츃 렀칢뱻똞?)
+
+    킶톓 쥏봞.
+  Could you tell me the way to the nearest subway station?
+  (툪랭 늏똞텈 빨?잰킶킕밻 닯섫덦 늏죇 뭣칢뱻똞?)
+  Can you tell me how to get to the railroad (or railway) station?
+  (킶킕밻 닯섫덦 늏죇 뭣칢뱻똞?)
+
+    ㅱ칊 몹욨툃톓 쥏봞.
+  Where's the nearest bus stop?
+  (툪랭 늏똞텈 ㅱ칊 몹욨툃톏 닯뿠럼뱻똞?)
+  Are there any buses running between here and there?
+  (킳떋п쫨휼 댾떋똞빨 ㅱ칊늏 봞뱻돘 렀칢뱻똞?)
+
+    匣휱톓 촡봞.
+  Excuse me. Where can I get tickets?
+  (?쓠?뱻봞. 匣휱톏 닯뿠킕п 촡밻 덐뱻똞?)
+  A ticket to New York, please.
+  (밃턡똞빨 1툃 틒??덧.)
+  Will you show me how to use this vending machine?
+  (래 퇫빓?쟻떋톩 촡턻ㆃ톓 늏웏햌 틒?뎈칢뱻똞?)
+
+    텈런㎕웙 쥏봞.
+  How much is a ticket to New York?
+  (밃턡똞빨톩 匣휱톏 닻쟞럼뱻똞?)
+  How much is the fare to Chicago?
+  (?훍돘똞빨톩 텈런톏 닻쟞럼뱻똞?)
+  What's the one-way fare?
+  (?븸 텈런톏 닻쟞럼뱻똞?)
+  What's the round trip fare?
+  (뒀ⅱ 텈런톏 닻쟞럼뱻똞?)
+  What's the express charge?
+  (땣? 텈런톏 닻쟞럼뱻똞?)
+
+    쨒픞 ?늒톓 쥏봞.
+  What time does the train (bus) for Philadelphia leave?
+  (嶇쏿뷞區큑? 킿픞"ㅱ칊"밻 죣 ?킕 혟쨒?뱻똞?)
+  What time does the last train (bus) leave?
+  (쟞빨쟟 멨픞"ㅱ칊"밻 죣 ?킕 혟쨒?뱻똞?)
+  Is the train (bus) for Boston coming soon?
+  (ⅰ칊흐 ? 킿픞"ㅱ칊"밻 돣 뎨뱻똞?)
+
+    ?늖톓 豈램?봞.
+  Will I be in time for the train (bus)?
+  (땇 킿픞"ㅱ칊" ?늖킕 쟸덦 븸픟? 츃 렀톓똞턠?)
+  Can I catch the last train (bus)?
+  (쟞빨쟟 킿픞"ㅱ칊"웙 ? 츃 렀톓똞턠?)
+
+    ?턠 ?늖톓 쥏봞.
+  How long will it take from Washington D.C. to New York?
+  (땀?흐톋씉쫨휼 밃턡똞빨밻 닯밶 몹븸 덆윹뱻똞?)
+
+    ?밻 덒톓 쥏봞.
+  Where do I catch the train (bus) for Chicago?
+  (?훍돘? 킿픞"ㅱ칊"밻 닯뿠п ?뱻똞?)
+  Which platform does the 9:00 a.m. train for Washington D.C. start from?
+  (덧멨 9?쨒 땀?흐? 킿픞밻 닯밶 ?쐲告킕п 혟쨒?뱻똞?)
+  Is this the right platform for Boston?
+  (ⅰ칊?톩 ?쐲告래 킳떋럼뱻똞?)
+  Which line goes to New York?
+  (밃턡?톏 닯밶 у럼뱻똞?)
+
+    닯밶 덒톓 ?똞 쥏봞.
+  Excuse me, but could you tell me which train (bus) to take for Chicago?
+  (?쓠?뱻봞쟢, ?훍돘? 킿픞"ㅱ칊"밻 닯밶 덒럼뱻똞?)
+  Which train (bus) should I take?
+  (닯밶 킿픞"ㅱ칊"웙 ?뇟 ?뱻똞?)
+
+    ?у빨웙 豈램?봞.
+  Does this train go to the airport?
+  Do you go to the airport?
+  (래 킿픞밻 돴?킕 늮뱻똞?)
+
+    늝큑?밻 돲톓 쥏봞.
+  How many times do I change trains to get there?
+  (땇돲킕 늏쓆죇 죣 ㅵ 늝큑?뇟 ?뱻똞?)
+  Will you tell me where to change trains?
+  (닯뿠킕п 늝큑?뇟 ?밻빨 늏웏햌 틒?뎈칢뱻똞?)
+
+    킶, 몹욨툃톓 豈램?봞.
+  Where are we?
+  (킳떋늏 닯뿠럼뱻똞?)
+  What's the end of this line?
+  (래 킿픞톩 뭍목톏 닯뿠럼뱻똞?)
+  Is this an express station?
+  (킳떋킕 땣?래 ?뱻똞?)
+
+    둧 츃봢톓 늏웏햌 틒봞.
+  The subway station is over there.
+  (빨?잰킶톏 멜숱럼뱻봞.)
+  The bus station (or terminal) is over there.
+  (ㅱ칊 ?밻 돲톏 멜숱럼뱻봞.)
+  Take a No. 3 Line train.
+  (3 朞у톓 ???덧.)
+  Take a bus bound for airport.
+  (돴? 쨢죇톋씉 늏밻 ㅱ칊킕 ???덧.)
+  A bus is available from hotel to airport.
+  (朞?쫨휼 돴?똞빨 ㅱ칊늏 봞벓뱻봞.)
+  Take a taxi.
+  (??웙 ???덧.)
+  You can take a bus if you wish, but it's much for faster by subway.
+  (ㅱ칊븸 렀빨쟢, 빨?잰래 붳 쮉웧뱻봞.)
+  It is rather far from here, so I advice you to take a bus or subway.
+  (킳떋킕п 띮 좈떋 쁺쥌킕 ㅱ칊륾 빨?잰톓 ?밻 덒래 뭣봞돘 쵕늒?뱻봞.)
+
+    ?턠 ?늖톓 늏웏햌 틒봞.
+  It's a 30-minute ride.
+  (30쫭킕 븸픟?뱻봞.)
+  It takes about three hours, I guess.
+  (쵡 ?늖 몹븸 덆윹뱻봞.)
+  It is about ten minutes' walk to the place from the station.
+  (킶킕п 댾떋똞빨 덆닯п 10쫭 몹븸럼뱻봞.)
+
+    텈런톓 늏웏햌 틒봞.
+  400(four hundred) won.
+  (400땅럼뱻봞.)
+  You can get the ticket from the vending machine over there.
+  (匣휱톏 멜숱 퇫빓?쟻떋킕п 촶뱻봞.)
+
+    ?밻 돲톓 늏웏햌 틒봞.
+  It will be on Track No.1 and 2.
+  (1ㅵу돿 2ㅵу킕п 럼뱻봞.)
+  It will leave from Track No. 5
+  (땇덒톏 5ㅵу킕п 혟쨒?뱻봞.)
+  This is the right platform for the train.
+  (킳떋늏 떋픞 ?밻 칦늳뒃럼뱻봞.)
+
+    ?밻 킿픞(ㅱ칊)웙 늏웏햌 틒봞.
+  You can take this train (bus)?
+  (래 킿픞"ㅱ칊"웙 ??죇 뻊뱻봞.)
+  Here comes your train (bus)
+  (킿픞"ㅱ칊"늏 둬칢뱻봞.)
+
+    릟윞밻 킶톓 늏웏햌 틒봞.
+  Ride to the end of the line.
+  (뭍목똞빨 늏??덧.)
+  The last stop is Seoul Station.
+  (뭍목래 п텎킶럼뱻봞.)
+  Get off at Seoul Station, and go out through the No. 1 exit.
+  (п텎킶킕 릟쓆п 1ㅵ 혟뒃씉 륾덧??덧.)
+
+    늝큑?밻 쨢ㆃ톓 늏웏햌 틒봞.
+  You will have to change trains at City Hall.
+  Change trains at City Hall.
+  (?쟤킕п 멨픞웙 늝큑???덧.)
+  Take a train bound for City Hall and change trains at Sungsu the second 
+stop.
+  (?쟤? 킿픞웙 ?춁п 뻶 ㅵ펯 킶램 ?츃킶킕п 킿픞웙 늝큑???덧.)
+  Transfer to the No.2 line on the other side of the platform.
+  (?쐲告톩 쨎봺숱킕п 2 朞у톋씉 늝큑???덧.)
+  You can get off at the next station and transfer to the train for Suwon.
+  (봞톛 킶킕п 릟쓆п 츃땅?톋씉 늝큑?죇 뻊뱻봞.)
+      ------------
+  @[  (3) ??킕п
+
+   ?밻 돲톓 쥏봞.
+  Where can I get a taxi?
+  (??밻 닯뿠킕п ?죇 뻊뱻똞?)
+  Where is the taxi stand?
+  (?? ?밻 돲톏 닯뿠럼뱻똞?)
+
+    ??킕 ?봞.
+  I'd like to go to Wall Street, please.
+  (땐칊?윞?씉 늮?봞.)
+  Take me to the Silla Hotel.
+  (?쏿朞?똞빨 늏 틒??덧.)
+  Can you drop me in front of the hotel?
+  (朞? ?킕п 릟쓆 틒?뎈칢뱻똞?)
+  Will you take me to this address?
+  (래 틒?똞빨 늏 틒?뎈칢뱻똞?)
+  Do you know where this address is?
+  (래 틒?웙 큛돘 뎮?뱻똞?)
+  Go straight on, please.
+  (돣툃 늏 틒??덧.)
+
+    ??킕п 릟윞봞.
+  Stop here, please.
+  (킳떋п 쵡땀 틒??덧.)
+  Let me off here, please.
+  (킳떋п 릟쓆 틒??덧.)
+
+    턠땞톓 릟봞.
+  How much is the fare?
+  How much do I owe you?
+  (닻쟞럼뱻똞?)
+  OK. Here you are.
+  (탛. 킳떋킕 렀칢뱻봞.)
+  Keep the charge, please.
+  (댾칊웥븼톏 늏빨??덧.)
+      ------------
+  @[  (4) 픞킕п
+
+    쒮?훍웙 ㎥윞봞.
+  Is there a car rental company near here?
+  (래 땎잠킕 쒮?훍 ?촡늏 렀칢뱻똞?)
+  Where can I rent a car?
+  (픞웙 ㎥윪 츃 렀밻 돲래 렀칢뱻똞?)
+  Where's the rent-a-car firm?
+  (쒮?훍 탗댕?밻 닯뿠킕 렀칢뱻똞?)
+
+    턠땞톓 쥏봞.
+  I'd like to rent a car for a week.
+  (픞웙 1틒랭 몹븸 ㎥윞돘 렀칢뱻봞.)
+  What's your rate?
+  (닻쟞럼뱻똞?)
+  What's the charge per day?
+  How much per day?
+  (?엨킕 닻쟞럼뱻똞?)
+
+     큑쥈 돲킕륾 뫝돘 늏봞.
+  Can I leave the car anywhere?
+  Can I drop it off anywhere?
+  (픞웙 큑쥈뷒륾 뫝돘 늏븸 뻊뱻똞?)
+
+    븸씉 빨븸웙 촡봞.
+  Do you have a road map?
+  (븸씉 빨븸늏 렀칢뱻똞?)
+
+    賂쨒텮웙 멅봞.
+  Could you tell me if there is a gas station nearby?
+  Where is the nearest gas station?
+  (땎잠킕 렀밻 틒텮?웙 늏웏햌 틒?뎈칢뱻똞?)
+  Fill it up, please.
+  (賂쨒텮웙 늏뾟 픸땀 틒??덧.)
+  Give me 20 liters of gasoline, please.
+  (賂쨒텮 20윞휼웙 멅닯 틒??덧.) @ff
+  @[  3. 朞?
+
+    탛뇨?봞.
+  Reservation, please.
+  (탛뇨뎮웙 쫨??뱻봞.)
+  I'd like to make a reservation for two nights next week.
+  (봞톛 틒씉 2쨆톓 탛뇨?돘 ?칢뱻봞.)
+  I want a twin room with a bath.
+  (턡?래 렀밻 ?뜹 옉톓 쫨??뱻봞.)
+
+    탛뇨톓 豈램?봞.
+  My name is Kim Hun. I have a reservation.
+  (탛뇨? 떛?럼뱻봞.)
+  I believe we have a reservation.
+  (탛뇨톓 ?톓 덐뱻봞.)
+  I have a reservation for a single (twin)
+  (?땓'?뜹' 옉톓 탛뇨?칢뱻봞.)
+
+    핤?램?봞.
+  I'd like to check in now.
+  (핤?램톓 쫨??뱻봞.)
+  Can I check in now?
+  (빨땞 핤?램? 츃 렀칢뱻똞?)
+  What time is check-in?
+  (핤?램톏 죣 ?쫨휼럼뱻똞?)
+
+    탛뇨톓 ?빨 큙큩톓 쁺
+  I don't have a reservation. Can I have a room for tonight?
+  (탛뇨톓 ?빨 〉?밻뷒, 덧밿 쨜 쥉톓 츃 렀칢뱻똞?)
+
+    쨢톓 쫨??봞.
+  I'd like a single room with bath.
+  (턡?래 렀밻 ?땓 옉톓 쫨??뱻봞.)
+  I'd like a room with a view of the ocean.
+  (쨅봞늏 ⅰ래밻 쨢래 뭣칢뱻봞.)
+  We'd like a double room with bath for under 50 dollars.
+  (50 봧쒊 래?톩 턡?래 렀밻 붳쬲 옉톓 쫨??뱻봞.)
+  Is it possible?
+  (쨢톏 닯밶 덒럼뱻똞?)
+
+    츅쨆㎕웙 쥏봞.
+  What's the rate for the room?
+  (츅쨆㎕밻 닻쟞럼뱻똞?)
+  What's the rate for a room per night?
+  (?엨킕 닻쟞럼뱻똞?)
+  Does this rate include breakfast?
+  (턠땞톏 큑챰?촡늏 棨?뺼 덒럼뱻똞?)
+  Do you have anything cheaper?
+  (묽붳 캿 쨢톏 댜칢뱻똞?)
+
+    쨢톓 쨅렊 봧쏿돘 ?봞.
+  I would like to change my room.
+  (쨢톓 쨅럞돘 ?칢뱻봞.)
+  Do you have any better ones?
+  (묽붳 뭣톏 쨢래 렀칢뱻똞?)
+
+    п㎕칊 톩얖: 듻틭?톓 ?떋봞.
+  Could I leave some of my valuables in the hotel safe?
+  (듻틭?톓 朞?땞돘킕 ?떓 츃 렀칢뱻똞?)
+  Please keep this baggage until tomorrow morning.
+  (래 뺑톓 릟랭 큑챰똞빨 ?큑틒??덧.)
+
+    　벜크톓 쫨??봞.
+  Can I have a morning call at 6^236^
+  Will you wake me up at 6^236^
+  (6?킕 　벜크톓 쨑톓 츃 렀뎈칢뱻똞?)
+
+    옉п㎕칊웙 쫨??봞.
+  May I have room service?
+  (옉п㎕칊웙 쫨?? 츃 렀칢뱻똞?)
+
+    쵡?톓 쫨??봞.
+  Do you have a laundry service?
+  (쵡?톓 쫨?? 츃 렀칢뱻똞?)
+  I want to send this to the laundry.
+  (래덒톓 쵡??킕 ?떋돘 ?칢뱻봞.)
+
+    닷툪뺸밻빨 豈램?봞.
+  When will it be ready?
+  How long will it take?
+  (닷툪뻊뱻똞?)
+
+   뺑톓 ⅰ릟 봧쏿돘 쫨??봞.
+  Can I ask you to send this baggage to Korea?
+  (래 뺑톓 ?뒄톋씉 ⅰ릟 틒?뎈칢뱻똞?)
+
+    좥?빨웙 豈램?봞.
+  Do you have any message for me?
+  Is there any message for me?
+  (툪덦 좥?빨 데 덒래 렀칢뱻똞?)
+  Are you sure?
+  (몹쟧럼뱻똞?)
+
+    킿췆웙 럭닯ㅱ쓛톓 쁺
+  I left the key in my room. Do you have the master key, please?
+  (킿췆웙 쨢킕 뻶돘 둬칢뱻봞. 쟞칊휼퐈웙 쿶 츃 렀톓똞턠?)
+
+    핤욨웙 킻툃?봞.
+  I'd like to extend my stay.
+  (핤욨웙 킻툃?돘 ?칢뱻봞.)
+  I'd like to stay two days longer.
+  (래? 몹븸 핤욨웙 킻툃?돘 ?칢뱻봞.)
+
+    핤?큑텞톓 ?봞.
+  I am going to check out at 10 o'clock.
+  (10?킕 핤?큑텞 ?쓆돘 ?뱻봞.)
+  I'm checking out. Bill, please.
+  I'd like to check out now. Could you give me the bill?
+  (빨땞 핤?큑텞톓 ?쓆돘 ?뱻봞. 뎮촦п웙 틒?뎈칢뱻똞?)
+
+    ?늖톓 豈램?봞.
+  When will you be checking out?
+  (죣 ?킕 핤?큑텞 ??뎈칢뱻똞?) @ff
+  @[  4. 톏?돿 턿핤뒄
+
+  @[  (1) 톏?킕п
+
+    錤멨톓 쫨??봞.
+  Where can I change money?
+  (錤멨톓 닯뿠킕п ? 츃 렀톓똞턠?)
+
+    땅톓 봧쒊씉
+  I would like to exchange Korean won for dollars.
+  (땅톓 봧쒊씉 둧錤?돘 ?칢뱻봞.)
+  Change this to dollars, please.
+  (봧쒊씉 쨅렊 틒??덧.)
+
+    錤텶톓 豈램?봞.
+  What's the exchange rate today?
+  (덧밿 錤텶톏 닯섫칢뱻똞?)
+  What's the exchange rate for the won to the US. dollar?
+  (땅돿 봧쒊톩 錤텶톏 닯섫칢뱻똞?)
+
+    퇯븼톋씉 쨅럞봞.
+  Please break a dollar into two quarters and five dimes.
+  (1 봧쒊웙 25쵦? 2툃돿 10쵦? 5툃톋씉 쨅렊 틒??덧.)
+  I would like 20 ten-dollar bills, 10 five-dollar bills, and 50 one-dollar 
+bills, please.
+  (10 봧쒊 펈윞 20툃돿 5 봧쒊 펈윞 10툃돿 땇윞돘 1 봧쒊 펈윞 50툃톋씉 
+틒??덧.)
+  Will you include small change?
+  (퇯븼톓 棨??п 뾞윪똞턠?)
+
+    킳?퇫 츃?웙 ?땞톋씉
+  I would like to cash a traveler's check.
+  (킳?퇫 츃?웙 ?땞톋씉 쨅럞닯 틒??덧.)
+  Can I cash a traveler's check here?
+  (킳떋킕п 킳?퇫 츃?웙 ?땞톋씉 쨅럦 츃 렀톓똞턠?)
+
+    뎮뮐웙 쟢뾦봞.
+  I would like to open an account.
+  (뎮뮐웙 늸ч?돘 ?칢뱻봞.)
+  I want a savings account, please.
+  (ⅰ 탛땞뎮뮐웙 쫨??뱻봞.)
+  I would like to open a checking account.
+  (봶뮐 탛땞뎮뮐웙 늸ч?돘 ?칢뱻봞.)
+
+    츃?웙 쨒??봞.
+  How can I  get a checkbook issued here?
+  (킳떋킕п 츃?웙 쨒? 쨑톋쓆죇 닯섫덦 ?뇟 ?뱻똞?)
+
+    뎮뮐 럼땞 츃?
+  May I have money sent direct to my account?
+  (?땞톓 멜톩 뎮뮐씉 빪몬 럼땞?푯 츃 렀칢뱻똞?)
+  Can I have my utility bills paid out of my bank account automatically?
+  (돴돴턠땞톓 멜톩 톏?뎮뮐씉쫨휼 퇫빓 래핤? 츃 렀칢뱻똞?)
+
+    ?땞?봞.
+  Can I make a telegraphic transfer here?
+  (킳떋п 멨? ?땞톓 ? 츃 렀칢뱻똞?)
+  I want to remit 10^2^000 dollars to Japan by telegraphic transfer.
+  (랭ⅴ킕 멨?톋씉 1 쟢 봧쒊웙 ?땞?돘 ?칢뱻봞.)
+  Do I need to fill in an application form?
+  (?쟤п킕 떋럼?뇟 ?뱻똞?)
+  What's the remittance charge?
+  (츃츃얷밻 닻쟞럼뱻똞?)
+      ------------
+  @[  (2) 턿핤뒄킕п
+
+    턿?웙 촡봞.
+  Where can I buy stamps?
+  (턿?밻 닯뿠킕п 촫 츃 렀칢뱻똞?)
+  Please give me two one-dollar stamps.
+  (1 봧쒊 턿?웙 2툃 틒??덧.)
+  Please give me five fifteen-cent stamps and ten aerograms.
+  (15쵦? 턿? 5툃돿 ?돴п욨 10툃톓 틒??덧.)
+
+    ?빨웙 ⅰ릟봞.
+  I want to send a letter to Korea.
+  (?뒄킕 ?빨웙 ⅰ릟돘 ?칢뱻봞.)
+  Please send this letter by air mail (sea mail)
+  (래 ?빨웙 ?돴?'쨦?'씉 쫨??뱻봞.)
+
+    ?棨웙 ⅰ릟봞.
+  Please send this by parcel post.
+  (래덒톓 ?棨씉 쫨??뱻봞.)
+  I would like to send this parcel by registered sea mail (air mail)
+  (래 ?棨웙 쨦?'?돴?'톋씉 ⅰ릟돘 ?칢뱻봞.)
+  Is this parcel within the weight limit?
+  (래 ?棨밻 틭쑘 툪? 릟킕 뾦닯늮뱻똞?)
+
+    턿? 턠땞톓 쥏봞.
+  What's the postage to Korea?
+  (?뒄똞빨 턿? 턠땞톏 닻쟞늏 뻊뱻똞?)
+
+    턿?錤톋씉 ?땞?봞.
+  I want to send 1^2^000 dollars by postal money order.
+  (턿?錤톋씉 1장봧쒊웙 ?땞?돘 ?칢뱻봞.) @ff
+  @[  5. 턅?
+
+    쒪칊쐗톓 늏웏햌 틒봞.
+  Could you tell me the name of some good restaurant?
+  (뭣톏 쒪칊쐗톓 늏웏햌 틒?뎈칢뱻똞?)
+  Could you suggest a Korean or Chinese restaurant?
+  (?뒄?봶래륾 틭뒄?봶톓 늏웏햌 틒?뎈칢뱻똞?)
+  Is there any seafood restaurant in the hotel?
+  (朞? 큖킕 쵕у 턠윞 ?봶래 렀칢뱻똞?)
+  Could you tell me an inexpensive restaurant?
+  (늏뎏래 멤봶? 쒪칊쐗톓 늏웏햌 틒?뎈칢뱻똞?)
+  Do you know if there's fastfood restaurant near here?
+  (래 땎잠킕 늖래 ?봶래 렀밻빨 期? 큑?뱻똞?)
+  Do we need a reservation?
+  (탛뇨? 嶇턠늏 댜칢뱻똞?)
+
+    탛뇨?봞.
+  I'd like to make a reservation, please?
+  (탛뇨톓 ?돘 ?칢뱻봞.)
+  What time do you start serving dinner?
+  (멜멳?촡밻 죣 ?쫨휼럼뱻똞?)
+  We'd like a table for two at 6:30(six thirty).
+  (6? 쨎킕 뻶 촡쐑톩 퇫윞웙 쫨??뱻봞.)
+  Please reserve a table for two.
+  (뻶 촡쐑톩 퇫윞웙 탛뇨?돘 ?칢뱻봞.)
+  We'd like to have a table near the window.
+  (픴늏킕 렀밻 퇫윞웙 쫨??뱻봞.)
+
+    ⅱ툃킕 봺?п
+  Should I wear a tie?
+  (멊?래웙 픟턻?뇟 ?뱻똞?)
+  Do I have to be formally dressed?
+  (몹툃?뇟 ?뱻똞?)
+
+    쒪칊쐗킕п
+  My name is Park Sang-yun. I have a 7 o'clock reservation for three.
+  (툪 래웥톏 쨆촻텲럼뱻봞. 7?킕 3 죟 퇫윞웙 탛뇨?밻뷒턠.)
+  I have a reservation.
+  (탛뇨?칢뱻봞.)
+
+    탛뇨?빨 큙큩톓 쁺
+  Are you serving lunch now?
+  (빨땞 목??촡 뻊뱻똞?)
+  We're a party of four. Can we have a table?
+  (랭?래 4 죟램뷒, 퇫윞늏 렀칢뱻똞?)
+  Do you have a table for four?
+  (4촡쐑 퇫윞늏 렀칢뱻똞?)
+  May we wait for a table?
+  (퇫윞늏 쵕떓 쁺똞빨 떋봞윪똞턠?)
+  About how long will we have to wait?
+  (닯밶 몹븸 떋봞쓆뇟 ?뱻똞?)
+
+    ?р?봞.
+  Do you mind if I join you?
+  (?р?븸 됧픤톋?뱻똞?)
+
+    뗍래휼웙 쫨웏봞.
+  Excuse me, waiter.
+  (?쓠?뱻봞, 뗍래휼.)
+  Can I see the menu, please.?
+  (좥밃웙 ⅰ킳 틒??덧.)
+  Will you take my order, please?
+  (틒쥌 쨑톋쵡턠.)
+  May I order now?
+  (빨땞 틒쥌?븸 뻀똞턠?)
+
+    좥밃웙 쥏봞.
+  What would you recommend?
+  (´늏 뒫? 쟢? 톛?래 렀칢뱻똞?)
+  What's good today?
+  (덧밿톏 쥈더래 쟵렀칢뱻똞?)
+  What do you have?
+  (닯섇 턠윞늏 렀칢뱻똞?)
+  It all looks good. Any suggestions?
+  (멨쫨 쟵렀덦 ⅰ래밻뒇턠. 뒫? 쟢? 덒래 쥈더럼뱻똞?)
+  What kind of dish is this?
+  (래덒톏 닯섇 턠윞럼뱻똞?)
+  What is the speciality of this house?
+  (래 뺙톩 ?쩳 턠윞밻 쥈더럼뱻똞?)
+  Do you have any special dishes today?
+  (덧밿톏 닯섇 ?쩳 턠윞늏 렀칢뱻똞?)
+  What kind of drinks do you have?
+  (쟞? 덒톏 쥈더래 렀칢뱻똞?)
+  What kind of dessert to you have?
+  (??킕밻 닯섇 덒래 렀칢뱻똞?)
+
+    턠윞웙 틒쥌?봞.
+  Can I have this one, please?
+  (래덒톓 틒??덧.)
+  I'll have the same.
+  The same for me, please.
+  (?톏 덒톋씉 쫨??뱻봞.)
+  I'll have pottage, green salad, and a sirloin steak, please.
+  (뇟픸츃?돝 땇윥 쵇쒊뾞 땇윞돘 у씉램 칊?래?웙 졻뎈칢뱻봞.)
+  I prefer seafood.
+  (쵕у턠윞늏 뭣뎈칢뱻봞.)
+  Well, the roast beef looked awfully good.
+  (땓켂턠, 씉칊? ㎕? 턠윞늏 둟툃丹 쟵렀덦 ⅰ럼뱻봞.)
+  OK. Why don't we try it?
+  (뭣큑턠. 땇덒톓 졻닯 ⅸ똞턠?)
+  Let's try it.
+  (땇쒛, 땇덒톋씉 ??봞.)
+
+    돘떋웙 뒖밻 몹븸킕 봺?킳
+  Rare, please.
+  (촫펉 랙? 틒쵡턠.)
+  Medium-rare, please.
+  (쨎퓉 붼 랙? 틒쵡턠.)
+  Medium, please.
+  (쨎퓉 랙? 틒쵡턠.)
+  Well-done, please.
+  (돼멨丹 랙? 틒쵡턠.)
+
+    ?래쬲킕п
+  Would you please pass the salt?
+  Would you mind passing the salt?
+  Please pass me the salt.
+  (?땞 묽 틒?뎈칢뱻봞.)
+
+    톛얷츃웙 쫨??봞.
+  Could I have a bottle of red wine, please?
+  (멤棨븸틒 ? 쪂톓 틒?뎈칢뱻똞?)
+  Three glasses of white wine, please.
+  (쨧棨븸틒씉 р 퇯 틒??덧.)
+  Beer, please.
+  (쟼틒웙 쫨??뱻봞.)
+
+    픞웙 쫨??봞.
+  I'll have coffee(tea) after dinner.
+  (멜멳 ?촡 ?킕 콩區'祈픞'웙 쟞?뎈칢뱻봞.)
+  With cream and sugar, please.
+  (?윶돿 ч?톓 멅닯 틒??덧.)
+  Just cream, please.
+  (?윶쟢 멅닯 틒??덧.)
+  Black, please.
+  (쬲쐜톋씉 틒??덧.)
+  A cup of tea with a slice of lemon, please.
+  (쒪‥ ? 묀늒톓 멅톏 픞 ?퇯 틒??덧.)
+
+    릕톏 턠윞웙 늏빨돘 늏봞.
+  Can I take out this dish?
+  (래 턠윞웙 늏퉍늝 츃 렀칢뱻똞?)
+  Could you put these dishes in a doggy bag?
+  (릕톏 턠윞웙 Ⅷ빨킕 멅닯 틒?뎈칢뱻똞?)
+  Can I order a takeout here?
+  (у쥒턻븸 틒쥌? 츃 렀칢뱻똞?)
+
+    뎮촦톓 ?봞.
+  Would you bring me the check?
+  Check, please.
+  (뎮촦톓 쫨??뱻봞.)
+  Isn't this bill wrong?
+  (뎮촦래 ?윞빨 큙큩칢뱻똞?)
+  Do you accept this charge card?
+  (래 ?턻훍뾞씉 뎮촦? 츃 렀칢뱻똞?)
+  Do you take traveler's check?
+  (킳?퇫 츃?븸 됧픤칢뱻똞?) @ff
+  @[  6. 췢狗
+
+    ?밻 돲톓 쥏봞.
+  Where do you have ties?
+  Where will I find ties?
+  (멊?래밻 닯뿠킕п ?뱻똞?)
+  Where's the men's clothing department?
+  (?촡ⅱ 쟻툃톏 닯뿠럼뱻똞?)
+  Where's the book corner?
+  (п멤 큄먤밻 닯뿠럼뱻똞?)
+  Where can I get a bottle opener?
+  (쪂쁝늸밻 닯뿠킕п 촫 츃 렀칢뱻똞?)
+  I'm looking for the stationery section.
+  (쥌쨢뒃웙 픵돘 렀칢뱻봞.)
+
+    촻?래 렀밻빨웙 쥏봞.
+  Do you have ties (wallets) ?
+  (멊?래'빨늮'늏 렀칢뱻똞?)
+  Do you carry Benetton bags?
+  (쩇멇톩 늏쨢 렀칢뱻똞?)
+  Do you have one like this?
+  (래덒돿 ?톏 쥒덂래 렀칢뱻똞?)
+  What sort of accessories do you have?
+  (큲쵡п윞 뭍욨킕밻 닯섇 덒뾦래 렀칢뱻똞?)
+
+    촻?톓 ⅰ킳 봧쏿돘 ?봞.
+  I'd like to see some ties.
+  (멊?래웙 묽 ⅰ돘 ?칢뱻봞.)
+  Please show me some wool sweaters.
+  May I see some wool sweaters?
+  (텎 칊뗍휼웙 ⅰ킳 틒??덧.)
+  Can you show me that one in the case?
+  (휕래칊 큖톓 ⅰ킳 틒?뎈칢뱻똞?)
+  I like that one. Would you show it to me?
+  (땇덦 뭣뒇턠. 멜킕덦 땇덒톓 ⅰ킳틒?뎈칢뱻똞?)
+
+    뒃뎩쟢 ? 쁺
+  I'm just looking for around.
+  (봢빨 뒃뎩쟢 ?밻 덐뱻봞.)
+
+    쵀래륾 　뉠킕 봺? 쥏봞.
+  I'm looking for something in blue.
+  (?쐃쵀톓 픵돘 렀칢뱻봞.)
+  I'd prefer a black one.
+  (덎톏 쵀 숱래 붳 륾톏뷒턠.)
+  Do you have this in black?
+  (래덒톋씉 덎톏 쵀래 렀칢뱻똞?)
+  Would you have it in yellow?
+  (몼쐃 쵀톏 렀칢뱻똞?)
+  May I see some dark-blue ones?
+  (뒇쟤쵀톋씉 ⅰ킳 틒?뎈칢뱻똞?)
+
+    ?윥 쵀, 　뉠톓 픵봞.
+  May I see some others in a different color?
+  (봞웕 쵀톋씉 ⅰ킳 틒?뎈칢뱻똞?)
+  What other colors do you have?
+  (봞웕 쵀톏 렀칢뱻똞?)
+  Don't you have any plain color ones?
+  (묽 츃츃? 쵀똧톏 댜칢뱻똞?)
+  May I see some other ones in a different style?
+  (봞웕 뿠퇫램톓 ⅰ킳 틒?뎈칢뱻똞?)
+
+    찼츃킕 봺?킳 쥏봞.
+  Do you have this jacket in a small size?
+  (래 툈풩톋씉 묀땞 붳 퇬톏 찼츃밻 댜칢뱻똞?)
+  I'd like something smaller.
+  (묀땞 붳 퇬톏 덒톓 땅?뱻봞.)
+  Do you have something just a bit bigger?
+  (묀땞 붳 ? 덒래 렀칢뱻똞?)
+  Do you have this in size 11?
+  (래덒톋씉 11 朞 찼츃늏 렀칢뱻똞?)
+  I would like size 10.
+  (10 朞톩 찼츃톩 덒톓 틒??덧.)
+
+    찼츃웙 툈봧쏿돘 ?봞.
+  I'm not sure of my size, can you measure me?
+  (툪 찼츃웙 퇳 　웏뎈톋뱻 찼츃웙 툈 틒?뎈칢뱻똞?)
+
+    찼츃늏 쟸빨 큙봞.
+  This jacket doesn't fit me.
+  (래 툈풩톏 륾킕덦 쟸빨 큙칢뱻봞.)
+  It seems to be a little too big.
+  (묀땞 ? 덒 ?칢뱻봞.)
+  It's too big.
+  (먤쥈 ?뱻봞.)
+  It's too loose.
+  (먤쥈 肯쒢?뱻봞.)
+  It's too small.
+  (먤쥈 퇬칢뱻봞.)
+  It's too tight.
+  (먤쥈 띉 뤂뱻봞.)
+
+    돘햌 봧쏿돘 ?봞.
+  Can you adjust the length?
+  (떓래웙 쟸징 틒?뎈칢뱻똞?)
+  A litter bit shorter, please.
+  (묀땞쟢 펚덦 ? 틒??덧.)
+
+    ?빼톓 豈램?봞.
+  Do you have anything of better quality?
+  (묽붳 빼래 뭣톏 덒래 렀칢뱻똞?)
+  Will you show me a better one?
+  (묽붳 빼래 뭣톏 덒톓 ⅰ킳 틒?뎈칢뱻똞?)
+  I wonder if it will wear well.
+  (래덒톏 덧쐛 럼톓 츃 렀칢뱻똞?)
+  Is this bag strongly made?
+  (래 늏쨢톏 ???뱻똞?)
+  Which is more strongly made?
+  (닯밶 덒래 ???뱻똞?)
+  Is it shrinkproof?
+  (래덒톏 틝닯뾦빨 큙칢뱻똞?)
+  Will it shrink?
+  (래덒톏 틝닯뾱뱻똞?)
+  It seems quite good quality.
+  (빼래 띮 뭣톏 덒 ?칢뱻봞.)
+
+    툈얷웙 쥏봞.
+  What's it made of?
+  (땇덒톏 쥈더톋씉 쟢뾦닯퉣칢뱻똞?)
+  What material is this made of?
+  (래덒톩 툈얷밻 쥈더럼뱻똞?)
+  May I see a leather jacket?
+  (늏틓툈풩톓 ⅸ 츃 렀톓똞턠?)
+  What kind of leather is it?
+  (쥈칎 늏틓럼뱻똞?)
+  Do you have any 100-percent silk dresses?
+  (100% ?? 도래 렀칢뱻똞?)
+  Do you have any wool ties?
+  (텎 멊?래밻 렀칢뱻똞?)
+  Is the fabric silk?
+  (래 장톏 ??럼뱻똞?)
+  Do you have gold accessories?
+  (땞톋씉 뺼 큲쵡п윞늏 렀칢뱻똞?)
+  Is this ring made of gold?
+  (래 쨎빨밻 땞톋씉 쟢뾦닯빳 덒럼뱻똞?)
+
+    럼닯ⅰ봞.
+  I would like to try these shoes on.
+  (래 뒃뻶웙 ?닯ⅰ돘 ?칢뱻봞.)
+  Do you mind if I try it on?
+  (땇덒톓 럼닯Α븸 됧픤칢뱻똞?)
+  May I try this suit on?
+  (래 뉠ⅱ톓 럼닯Α븸 됧픤칢뱻똞?)
+
+    촡밻 덒톓 ！엨봞.
+  I'll think about it, thank you.
+  (묽붳 쵕늒? ⅰ뎈칢뱻봞. 늫촡?뱻봞.)
+  I can't decide now.
+  (빨땞톏 뎘몹?빨 〉?뎈칢뱻봞.)
+  This is not quiet what I wanted (or had in mind).
+  (래덒톏 툪늏 픵돘 렀붷 덒돿 봞웏뒇턠.)
+  I'll look around some more.
+  I'll try some other place, thank you very much.
+  (봞웕 돲톓 픵큑ⅰ뎈칢뱻봞.)
+
+    쥒덂톓 뎘몹?봞.
+  I would like to buy this one.
+  I'll take this one.
+  (래덒톓 틒??덧.)
+  I like this one.
+  This is what I wanted.
+  (래덒톋씉 ?뎈칢뱻봞.)
+  This fits me quite well.
+  (래덒래 멜킕덦 뜟 쟸칢뱻봞.)
+
+    늏뎏톓 쥏봞.
+  How much is it?
+  What do you want for it?
+  (닻쟞럼뱻똞?)
+  What's the price of this bag?
+  (래 늏쨢톏 닻쟞럼뱻똞?)
+  What's the normal price?
+  (몹늏밻 닻쟞럼뱻똞?)
+  How much does that come to altogether?
+  (멨쫨 닻쟞럼뱻똞?)
+
+    쫨??톓 棨?? 늏뎏
+  How much will it be with the case?
+  (휕래칊웙 棨??п 닻쟞럼뱻똞?)
+  Do batteries come with the radio?
+  (쏿뿠덧킕 덂멨빨웙 棨?? 늏뎏럼뱻똞?)
+
+    쵡땞톓 棨?? 늏뎏
+  How much will it be with tax?
+  (쵡땞톓 棨??п 닻쟞럼뱻똞?)
+  Does the price include tax?
+  (땇덒톏 쵡땞래 棨?뺼 늏뎏럼뱻똞?)
+
+    뎮촦п톩 픟덧
+  Isn't there a mistake in the bill?
+  (뎮촦래 ?윞빨 큙칢뱻똞?)
+  Will you please check it?
+  (래덒톓 豈램? 틒?뎈칢뱻똞?)
+
+    늏뎏톓 똠봞.
+  It's awfully expensive.
+  (먤쥈 ㎕컎뱻봞.)
+  I can't spend that much.
+  (땇쒨덦 쟥톏 탛촦톏 댜칢뱻봞.)
+  Don't you have cheaper ones?
+  (묽 붳 캿 덒톏 댜칢뱻똞?)
+  May I see some less expensive ones?
+  Please show me some that are less expensive.
+  (묽 붳 캿 덒톓 ⅰ킳틒??덧.)
+  Can you make it a little cheaper?
+  (묀땞 캻덦 ? 틒?뎈칢뱻똞?)
+  Is that your last price?
+  (땇덒 래촻톏 캻덦 큖뻊뱻똞?)
+  Can't you come down just a bit more?
+  (묽 붳 똠큑 틒?빨 큙뎈칢뱻똞?)
+  Can you cut the price by 10 percent?
+  (늏뎏톓 10% 몹븸 ?램? 틒? 츃 렀칢뱻똞?)
+  I'll buy it if it's 50.
+  (50 봧쒊쏿죇 촡뎈칢뱻봞.)
+  I'll buy them all together if you discount.
+  (캻덦 ? 틒?죇 ?뚡ㅵ킕 쟥래 촡뎈칢뱻봞.)
+
+    棨툃? 봧쏿돘 ?봞.
+  Can you put it in a bag(box), please?
+  (Ⅷ빨'쨆칊'킕 멅닯 틒?뎈칢뱻똞?)
+  Please wrap them separately.
+  (늸쩳씉 棨툃? 틒??덧.)
+  Can you wrap it as a gift?
+  Can you gift wrap it?
+  (у쥒턻톋씉 棨툃? 틒?뎈칢뱻똞?)
+
+    쨦봧톓 ?쟤?봞.
+  Can I have this delivered?
+  Do you deliver?
+  (쨦봧? 틒?뎈칢뱻똞?)
+  Can you deliver it to the hotel?
+  (朞?똞빨 쨦봧? 틒?뎈칢뱻똞?)
+  Can you ship this to Korea?
+  (?뒄톋씉 ⅰ릟 틒?뎈칢뱻똞?)
+  This is my address, please send it there.
+  (래 틒?씉 ⅰ릟 틒??덧.)
+
+    텈?얷웙 쥏봞.
+  Is there an extra charge?
+  (텈?얷늏 嶇턠?뱻똞?)
+
+    ?떋봞.
+  Can you keep this until this evening?
+  (멜멳똞빨 ?큑 틒?뎈칢뱻똞?)
+
+    촻?톓 봧쏿돘 ?봞.
+  I would like to exchange this for something else.
+  (래덒톓 봞웕 촻?돿 둧錤?돘 ?칢뱻봞.)
+  I would like to exchange this jacket I bought here yesterday.
+  (닯툪 킳떋п 촦 툈풩톓 둧錤? 틒춚톋죇 ?뱻봞.)
+
+    쨎??봞.
+  Could I have a refund on this?
+  (래덒톓 쨎錤? 츃 렀톓똞턠?)
+  I would like to return this, because it's broken.
+  (쟷늏퉍 렀덕떋 쁺쥌킕 쨎??돘 ?칢뱻봞.)
+  Here's the receipt.
+  (탗츃퍆톏 킳떋킕 렀칢뱻봞.)
+
+    탗댕?늖톓 쥏봞.
+  What time do you open?
+  (죣 ?쫨휼 늸목럼뱻똞?)
+  What time do you close?
+  (?목톏 죣 ?럼뱻똞?)
+  How late are you open?
+  (늏덦밻 죣 ?똞빨 킿쓆 렀칢뱻똞?) @ff
+  @[  7. 빼쪂
+
+    쪂땅, 뇨뒄톓 픵봞.
+  Could you tell me if there is a hospital (drugstore) nearby?
+  Is there a hospital (drugstore) near here?
+  (래 땎잠킕 쪂땅'뇨뒄'래 렀칢뱻똞?)
+  Where is the nearest drugstore?
+  (늏툃 늏똞텈 뇨뒄톓 늏웏햌 틒??덧.)
+
+    톩촡킕덦 ⅰ래봞.
+  I'd like to see a doctor?
+  (톩촡킕덦 빳픦톓 쨑돘 ?칢뱻봞.)
+  Please take me to the hospital?
+  (쪂땅킕 뷒윞돘 늏 틒??덧.)
+  Please call a doctor.
+  (톩촡웙 쫱쒊 틒??덧.)
+  Please call an ambulance.
+  (뒃땣픞웙 쫱쒊 틒??덧.)
+
+    뇨톓 촡봞.
+  I want some medicine for a cold.
+  (늫떋 뇨톓 틒??덧.)
+  Can I have aspirin, please?
+  (큑칊區윥톓 틒??덧.)
+
+    뇨톓 졻봞.
+  I took some medicine, so I'll feel better soon.
+  (뇨톓 졻덕떋 쁺쥌킕 땞쨢 됧픤큑빼 댾쏿돘 쵕늒?뱻봞.)
+  This medicine works well.
+  (래 뇨톏 퇳 뾥칢뱻봞.)
+
+    떋쫭래 뭣빨 큙봞.
+  I feel sick.
+  (쪂래 릚칢뱻봞.)
+  I feel like vomiting (or throwing up)
+  (? 덒 ?칢뱻봞.)
+  I have no appetite.
+  (?턡래 댜칢뱻봞.)
+  I feel as if it is a hard to breathe.
+  (츗?떋 蛋뾱뱻봞.)
+
+    늫떋
+  I'm suffering from a cold.
+  I've caught a cold.
+  (늫떋킕 덆쓛칢뱻봞.)
+  I have a nose cold.
+  (큄늫떋킕 덆쓛칢뱻봞.)
+  I have a running nose.
+  (킵쥒래 륾뎨뱻봞.)
+  I have a stuffy nose.
+  (큄늏 쟟?칢뱻봞.)
+  I have a sore throat.
+  (、래 큑?뱻봞.)
+  I have swollen tonsils.
+  (?븸у래 쫨덕칢뱻봞.)
+  I feel chilly.
+  (?떋늏 렀칢뱻봞.)
+  He's down with the flu.
+  (땇밻 늫떋킕 덆쓆 퇫돘 렀칢뱻봞.)
+  I've recovered from my cold.
+  (늫떋늏 륾큩칢뱻봞.)
+
+    킿
+  I have a touch of fever.
+  (킿래 묀땞 렀칢뱻봞.)
+  I feel feverish.
+  (킿래 렀밻 덒 ?칢뱻봞.)
+  I have a high fever.
+  (돘킿래 렀칢뱻봞.)
+  Do you have a fever?
+  (킿래 렀칢뱻똞?)
+
+    뻶
+  I have a headache.
+  (뻶래 렀칢뱻봞.)
+  I have a splitting headache.
+  (졹윞늏 똻빼 뾳래 큑?뱻봞.)
+  My head feels heavy.
+  (졹윞늏 쥈덐칢뱻봞.)
+
+    ⅱ
+  I have an upset stomach.
+  (쨦늏 큑?뱻봞.)
+  I have a diarrhea.
+  (ч촡웙 ?돘 렀칢뱻봞.)
+  I have an acute (or sharp) stomach ache.
+  (쨦늏 ??덦 큑?뱻봞.)
+
+    턠
+  I have a bad back.
+  I have a backache.
+  (턠럼뱻봞.)
+
+    닯똻 뎘윶
+  My shoulders are stiff.
+  (닯똻늏 뎘윹뱻봞.)
+
+    ” 촻?늏 륾첺봞.
+  I'm in bad shape.
+  (” 촻?늏 륾쳒뱻봞.)
+
+    닯빨쒛퍆
+  I feel dizzy.
+  (닯빨쒛퍆래 렀칢뱻봞.)
+
+    ㎘?
+  I suffer from anemia.
+  (㎘?럼뱻봞.)
+
+    큄區
+  I have a nose bleed.
+  (큄區늏 릗뱻봞.)
+
+    ?큦래 뫜봞.
+  I have high blood pressure.
+  (돘?큦럼뱻봞.)
+
+    쩯㎕
+  I suffer from chronic constipation.
+  (쟢?쩯㎕럼뱻봞.)
+
+    큛쒪웏떋
+  I'm allergic to pollen.
+  (뜾늏엨 큛쒪웏떋럼뱻봞.)
+
+    츅쭐
+  I have a hangover.
+  (츅쭐럼뱻봞.)
+
+    쥌쪂
+  That's bad. Please take good care of yourself.
+  (큖뺯뒇턠. ”묀????덧.)
+  I hope you will get well soon.
+  (쮑윞 ?ⅱ뺸떋웙 쨅쐓뱻봞.)
+  Good luck.
+  (덂늳???덧.)
+
+  ----- @[  (빼ㆇ)  -----
+  (래촻?봞돘 쵕늒래 뾦죇 돣 쪂땅킕!)
+
+  ?턅킕п밻 ?픞쏿뾢늏 떋?, 뜬쵕촻?톩 홣죇킕п ” 촻?웙 핤??뇟 ?봞.
+  쟢랭 ч촡 뾵톓 ?톓 뎩턿킕밻 ?뻶 ㅵ ?촡웙 ?빨 쟧돘, 쁝썈?덦 큖몹?밻 
+덒래 툪랭래봞.(땇쒊륾 ?츃퍆톓 쟟떋 뜬?п 쁝썈? 톛얷웙 멤봶丹 ?쭐?밻 덒톓 
+렇빨쟧덒).
+  땇쒊륾 ⅰ촡쐑톩 ?봢톏 땞쥒. 퍆촻래 쵕늒ⅰ봞 ?? 뎩턿킕밻 돣 톩촡킕덦 
+ⅰ래밻덦 뭣봞. 랭욨 朞?킕밻 촻 24?늖툪씉 톩촡돝 늖朞촡늏 봺떋?돘 렀봞. 래 
+쁺밻 "Doctor emergency."쟢톋씉 ?봞. 땇쨇킕 朞? ?씎?킕 멨譏?п "Please 
+call a doctor." 쏿돘 톩촡늏 嶇턠?봞돘 쟧?떋븸 ?봞.
+  솪 댾윞킕п 촻?늏 륾쳃 쁺쏿뾢늏 ?? 촻잠웙 봶? 뎩턿킕밻 쟷ч래빨 쟧돘 
+빨륾늏밻 촡쐑래륾 늏똞텈 늏덦톩 촡쐑킕덦 뒃땣픞웙 쫱쒊 봧쏿돘 쫨??봞.
+
+  릟돿 Internal Medicine
+  턅돿 Surgery
+  큖돿 Ophthalmology.
+  찼돿 Dentistry
+  ?큑돿 Pediatrics
+  래㎕램?돿 Otorhinolaryngology
+  촦쫨램돿 Obsterics and Gynecology
+  區쫨돿 Dermatology
+  ?뎩돿 Necrology
+  잠쨢멨 a prescription
+  늫떋뇨 a cold medicine
+  츃죇툪 a sleeping pill
+  빳툪 a pain-killer
+  뭶뇨 an eye-lotion
+  뜬툃뇨 a medicine for the stomach and bowels
+  ?븹뇨 a disinfectant
+  쨎픴돘 a sticking plaster
+  촻잠뇨 a salve ; an ointment ; a vulnerary
+
+  뇨톏 죣 큛 졻칢뱻똞?
+  How many of these am I suppose to take?
+  뇨톏 죣 ㅵ 졻칢뱻똞?
+  How open do I have to take the medicine?
+  래 뇨톏 쫨퇬턻래 렀칢뱻똞?
+  Can I expect any side effects?
+      ------------
+  (퍆촻톓 멨? 쁺 탗닯??)
+
+  킳떋늏 큑?봞. I have a pain here.
+  졹윞늏 큑?봞. I have a headache.
+  뜬늏 큑?봞. I have a stomachache.
+  래늏 큑?봞. I have a toothache.
+  뾵래 큑?봞. I have a backache.
+  듻늏 큑?봞. I have an earache.
+  늏칝래 큑?봞. I have chest pain.
+  急윞늏 큑?봞. I have lower back pain.
+  됃면래 큑?봞. I have pain in my joint.
+  ?떋늏 렀봞. I have a chilly.
+  킿래 렀봞. I have a fever.
+  닯빨쒞봞. I feel dizzy.
+  떋쫭래 큖 뭣봞. I feel sick.
+  朞?래 돟쐃?봞. I have difficulty in breathing.
+  ------------------------- @ff
+  @[  툪6툃 떋ⅴ멤램 멨譏 탗닯??
+
+  @[  1. 멨譏웙 덆봞.
+
+    래웥톓 쟧?봞.
+  Hello! This is Lee Mi-ran speaking.
+  (킳ⅰ쵡턠. 멜밻 래！쐃럼뱻봞.)
+  Hello! This is Mr. Kim of the BBC Company.
+  (킳ⅰ쵡턠. BBC촡톩 ！칊휼 떛럼뱻봞.)
+  Hello! This is Mr. Park of the ABC Company of (or from) Seoul 
+speaking.
+  (킳ⅰ쵡턠. 멜밻 п텎 ABC촡톩 ！칊휼 쨆래쏿돘 ?뱻봞.)
+  This is Jeong Sang-woo.
+  I'm Jeong Sang-woo.
+  My name is Jeong Sang-woo.
+  (멜밻 몹촻턿럼뱻봞.)
+  This is Mr. Choi from Seoul.
+  (п텎톩 ！칊휼 헊럼뱻봞.)
+  I'm Mr. Kim of the NBC Company in (or from) Seoul.
+  (п텎 NBC촡톩 ！칊휼 떛래쏿돘 ?뱻봞.)
+
+    래웥톩 잰퇫웙 쟧?봞.
+  My name is Kang. That's K for Korean, A for America, N for New York, 
+G for Girl.
+  (멜밻 늳래쏿돘 ?뱻봞. 칊?윿톏 K. A. N. G. 럼뱻봞.)
+
+    ㅵ朞웙 豈램?봞.
+  Is this 928-1505?
+  (928-1505럼뱻똞?)
+
+    ㅵ朞웙 쥏봞.
+  What number should I dial to get the operator?
+  (둧錤봺밻 죣 ㅵ럼뱻똞?)
+  What number should I dial for information?
+  (ㅵ朞 큖릟밻 죣 ㅵ럼뱻똞?)
+  I'd like to have the number of the Silla Hotel.
+  (?쏿 朞? ㅵ朞웙 큛돘 ?칢뱻봞.)
+
+    촻봺킕덦 멨譏웙 쫨??봞.
+  Could you call me, please?
+  Would you mind giving me a call?
+  Would you please give me a call?
+  (멨譏웙 틒?뎈칢뱻똞?)
+  Would you mind calling back later?
+  Will you please give me a call?
+  (륾틭킕 멨譏웙 틒?뎈칢뱻똞?)
+  Please give me a call.
+  (멨譏? 틒쵡턠.)
+  Would you ask her to call me, please?
+  (땇멲킕덦 멨譏? 봧쏿돘 랭쒊틒?뎈칢뱻똞?)
+  Please call me when you arrive in Kimpo.
+  (떛棨킕 븸픟??죇 멨譏 틒??덧.)
+
+    멨譏웙 ㎥윞봞.
+  May I use your telephone?
+  May I use the phone?
+  Can I use your phone?
+  (멨譏웙 결븸 뻊뱻똞?)
+
+    돴틭멨譏웙 픵봞.
+  Where can I find a pay phone?
+  (닯뿠킕 돴틭멨譏늏 렀칢뱻똞?)
+  Is there a pay phone near here?
+  (래 땎잠킕 돴틭멨譏늏 렀칢뱻똞?)
+  Excuse me. Is that a pay phone?
+  (?쓠?뱻봞. 멜덒래 돴틭멨譏럼뱻똞^236^) @ff
+  @[  2. 촻봺킕덦 킻뎘톓 쫨??봞.
+
+    촻봺웙 쫱쒊 봧쏿돘 ?봞.
+  Hello, this is Mr. Park. Can I talk to Mr. Brown?
+  Hello, Mr. Park speaking. May I speak to Mr. Brown?
+  (킳ⅰ쵡턠. 멜밻 ！칊휼 쨆램뷒 ！칊휼 쬪쏿텈돿 譏? 츃 렀톓똞턠?)
+  Will (or Would, Could) you put me through to Mr. George Brown, the 
+manager of the Import Section?
+  (츃럼돿 돿툃램 ！칊휼 쬪쏿텈톓 쫱쒊 틒?뎈칢뱻똞?)
+  I'd like to speak to Mr. Brown, the manager of the Export Section.
+  (츃혟돿 돿툃램 ！칊휼 쬪쏿텈톓 쫨??뱻봞.)
+  I'd like to talk to (or with) Mr. George Brown.
+  (！칊휼 묀빨 쬪쏿텈돿 늑떋?돘 ?칢뱻봞.)
+  Could I speak to Mr. Brown. please?
+  Is Mr. Brown available now?
+  (！칊휼 쬪쏿텈돿 빨땞 譏? 츃 렀톓똞턠?)
+  Is Mary Smith there?
+  Is Mary in?
+  (좥윞 렀칢뱻똞?)
+
+    촻봺웙 豈램?봞.
+  Is this Mr. Brown?
+  (！칊휼 쬪쏿텈럼뱻똞?)
+  Hello. Mary?
+  (킳ⅰ쵡턠. 좥윞뱻?)
+
+    램촡웙 륾뭲봞.
+  Hi, Mr. Brown. How are you? This is Mr. Kim.
+  (큖몏??뱻똞, ！칊휼 쬪쏿텈. 닯섫덦 빨릟?뱻똞? 멜밻 ！칊휼 떛럼뱻봞.)
+  Hi, Mr. Brown. Seems I haven't seen you for a long time.
+  (큖몏??뱻똞, ！칊휼 쬪쏿텈. 덧쐟쟢럼뱻봞.)
+  Hi, Mr. Brown. How are you? I'm Mr. Choi of the CBC Company.
+  (큖몏??뱻똞, ！칊휼 쬪쏿텈. 닯섫덦 빨릟?뱻똞? 멜밻 CBC촡톩 ！칊휼 
+헊럼뱻봞.)
+
+    쨜뱗덦 멨譏?톓 쁺
+  I'm sorry to bother you at this hour.
+  (래쒎 ?늖킕 멨譏웙 ?п 튍??뱻봞.)
+
+    됃뎮쫨п킕 킻뎘?휺 봧쏿돘 ?봞.
+  May I have the Foreign Department?
+  Will (or Would, Could) you connect me with the Foreign Department?
+  (?턅쫨씉 빀쓆틒?뎈칢뱻똞?)
+  May I speak to someone in charge of marketing?
+  (쟞휕腔 봰봶??밻 쫭톓 쫨??뱻봞.)
+  I'd like to speak to your accounting manager.
+  (뎩윞돿툃벑톓 쫨??뱻봞.)
+
+    뒃릟у톋씉 킻뎘?휺 봧쏿돘 ?봞.
+  May I have Extension 123?
+  (뒃릟 123ㅵ톋씉 빀쓆 틒?뎈칢뱻똞?)
+  Extension 345, please.
+  (뒃릟 345ㅵ톓 쫨??뱻봞.) @ff
+  @[  3. 턻덂톓 래뇟떋?봞.
+
+    죇?웙 ?쟤?봞.
+  This is Mr. Kim of the ABC Company. I'd like to make an appointment 
+to meet you at your convenience next week.
+  (ABC촡톩 ！칊휼 떛램뷒 릟틒 봶?래 ?윞? 쁺 쟢릋 뇨?톓 ?돘 ?칢뱻봞.)
+  I have some very important business to talk about.
+  (틭턠? 턻덂톋씉 래뇟떋?돘 ?칢뱻봞.)
+  I'd like to meet you to talk about the pending issue of buying another 500 
+laptop personal computers from your company.
+  (?큖래 뺸닯 렀밻 듻촡톩 ?봺턻 瓊칊먬쿰?휼 5쨧봺톩 혖늏뒃럼 쥌툪킕 봺?킳 
+쟢륾п 촻봰?돘 ?칢뱻봞.)
+
+    탛몹톓 豈램?봞.
+  What's your schedule for next week?
+  What are your plans for next week?
+  (봞톛 틒톩 탛몹톏 닯섫덦 뺸?뱻똞?)
+  What day suits you best?
+  (닷툪늏 늏툃 뭣톓똞턠?)
+
+    릋펈웙 몹?봞.
+  If it's all right, I'd like to visit your office next Monday.
+  I'd like to call on you next Monday, if I may.
+  (됧픤톋?봞죇 봞톛 틒 땐턠랭킕 듻촡웙 쨢쥌?돘 ?칢뱻봞.)
+  May I call on you next Monday?
+  (봞톛 틒 땐턠랭킕 픵큑α븸 뺸뎈칢뱻똞?)
+  I'd like to drop in next Monday if it's convenient.
+  (빨툃래 댜톋?봞죇 봞톛 틒 땐턠랭킕쏿븸 뾦웏돘 ?칢뱻봞.)
+  I'd like to meet you, possibly on Wednesday, April 8.
+  (늏뱖?봞죇 4땐 8랭 츃턠랭킕 쟢륾 쪺돘 ?칢뱻봞.)
+  I'd like to meet you next Tuesday, that's April 15th.
+  (봞톛 틒 譏턠랭 4땐 15랭킕 쟢륾돘 ?칢뱻봞.)
+  Can I see you someday next week?
+  (봞톛 틒 틭킕 쪰 츃 렀톓똞턠?)
+  Can you meet me on Wednesday?
+  Or do you have another appointment?
+  (츃턠랭킕 쟢릋 츃 렀칢뱻똞? 큑뱻죇 봞웕 뇨?래 렀톋?뱻똞?)
+
+    촡몹톓 豈램?봞.
+  The sooner, the better. How about next Monday?
+  (쮉웙츃씊 뭣칢뱻봞. 봞톛 틒 땐턠랭톏 닯섫칢뱻똞?)
+  I wonder if you would have time to meet me on Monday.
+  (땐턠랭킕 멜돝 쟢륾? 츃 렀톓똞턠?)
+  Would Tuesday be all right?
+  (譏턠랭래쏿죇 됧픤톋?뱻똞?)
+  OK, please keep Tuesday open.
+  (땇쒛, 譏턠랭톏 ㎕땀 뻶??덧.)
+
+    ?늖톓 뎘몹?봞.
+  What time will be convenient?
+  When can you make it?
+  (죣 ?늏 뭣톋?뱻똞?)
+  What time can I come?
+  When is it convenient to visit you?
+  (죣 ?킕 픵큑쪰똞턠?)
+  How about at 10 in the morning?
+  (덧멨 10?밻 닯섫칢뱻똞?)
+  Will 3 o'clock be all right?
+  (3?늏 됧픤칢뱻똞?)
+  Would 10:30 (ten thirty) be all right?
+  (10? 30쫭톏 됧픤칢뱻똞?)
+
+    ?늖톓 豈램?봞.
+  All right. Will you please make an appointment for me at 10:30 (ten 
+thirty) in the morning?
+  (뭣칢뱻봞. 덧멨 10? 30쫭톋씉 뇨???뎈칢뱻똞?)
+  So, I will come and see you at your office at 10 in the morning that day.
+  (땇쒛, 땇릋 덧멨 10?킕 듻촡킕п 쪺븸씊 ?뎈칢뱻봞.)
+  How long could you give me?
+  (닯밶 몹븸 ?늖톓 틒?뎈칢뱻똞?)
+  Thanks. I'll be there then.
+  (늫촡?뱻봞. 땇 ?늖킕 땇돲톋씉 늏뎈칢뱻봞.)
+  See you then. Bye.
+  (땇쒛 땇쁺 쟢릗?봞. 큖몏.)
+
+    툃?웙 뎘몹?봞.
+  Where shall we meet?
+  (닯뿠п 쟢릋똞턠?)
+  Shall I call on you?
+  (봶?톓 쨢쥌?똞턠?)
+  Can you come here?
+  (래돲톋씉 뎀 츃 렀칢뱻똞?)
+  It's up to you.
+  (봶?킕덦 봧쓆 렀칢뱻봞.)
+  Would the lobby of the Silla Hotel be convenient?
+  (?쏿朞?톩 씉㎕늏 뭣뎈칢뱻똞?)
+  How about at my office?
+  Why not at my office?
+  (툪 촡쥈?톏 닯섫칢뱻똞?)
+  Yes, that would be fine.
+  (탛, 뭣칢뱻봞.)
+  I'll see you in the lobby of the Silla Hotel at 12:30.
+  (?쏿朞? 씉㎕킕п 12? 30쫭킕 쟢릗?봞.)
+
+    뇨?톓 킻떋?봞.
+  I'm calling you to ask if you could postpone my appointment with you, 
+which is scheduled for next Wednesday morning.
+  (봞톛 틒 츃턠랭 덧멨 틭킕 쟢륾떋씉 ? 뇨?톓 킻떋? 츃 렀밻빨 킳풏떋 뜬? 
+멨譏 뾞쓛칢뱻봞.)
+
+    뇨?톓 쭐??봞.
+  Mr. Brown, I'm sorry but I have to cancel my appointment with you 
+scheduled for next Wednesday.
+  (！칊휼 쬪쏿텈, 튍??뱻봞쟢 봞톛 틒 츃턠랭킕 탛몹뺼 뇨?톓 쭐??톋죇 
+?뱻봞.)
+
+    래텮웙 ч죟?봞.
+  A problem has come up, and I can't come to see you tomorrow.
+  (촡몹래 쵕뎎п 릟랭 픵큑 쪰 츃 댜덦 뺸덕칢뱻봞.)
+
+    ?톩씉 램?п
+  I was asked to attend an extraordinary meeting, so I have to cancel the 
+appointment for this afternoon.
+  (땣? ?톩늏 쵕뎎п, 덧?톩 뇨?톓 쭐?? 츃쨇킕 댜덦 뺸덕칢뱻봞.)
+  I will call you back later to arranger a new appointment.
+  (봞? 뇨??떋 뜬?п 륾틭킕 멨譏 뾞윞뎈칢뱻봞.)
+
+    쪂톋씉 램?п
+  Unfortunately I've caught a cold, so I can't come to see you this evening.
+  (텮늫칊쒞덦븸 늫떋킕 덆쓆п 덧밿쨜 픵큑 쪰 츃 댜덦 뺸덕칢뱻봞.)
+  I have to undergo (or have) an operation for appendicitis early next week.
+  (봞톛 틒 점킕 젛툃츃츎톓 쨑큑뇟 ?뱻봞.)
+  I'll call you back when I get well.
+  (릙밻 봺씉 멨譏 뾞윞뎈칢뱻봞.)
+
+    턻덂톓 쟧?봞. (틒쥌킕 봺?킳)
+  I'm calling about your order.
+  (듻촡톩 틒쥌 덂톋씉 멨譏웙 뾞쓛칢뱻봞.)
+  I'm calling in connection with the specification of the ordered model.
+  (틒쥌?? 　뷞톩 죟쵡킕 봺?п 래뇟떋?떋 뜬?п 멨譏?칢뱻봞.)
+  I'd like to check on the order.
+  (틒쥌? 덒톓 豈램?돘 ?칢뱻봞.)
+
+    쟻럼킕 봺?킳
+  I'm calling you about the purchase of videotape recorders from your 
+company.
+  (듻촡씉쫨휼 ㎕뿠덧웙 뒃럼?쓆돘 멨譏?칢뱻봞.)
+  We've decided to purchase 500 more units of the VTR from you.
+  (듻촡씉쫨휼 5쨧봺톩 ㎕뿠덧웙 붳 뒃럼?떋씉 뎘몹?칢뱻봞.)
+
+    촻봰킕 봺?킳
+  I'm calling you about my scheduled visit to your office in New York 
+sometime early in June.
+  (6땐 점츉톋씉 탛몹뺼 밃턡톩 듻촡 쨢쥌킕 봺? 래뇟떋?쓆돘 멨譏 뾞쓛칢뱻봞.)
+  I'm scheduled to arrive in New York on May 10 and wish to have a talk 
+about the personal computer with you, Mr. White.
+  (！칊휼 譏래?, 멜밻 5땐 10랭 밃턡킕 븸픟? 瓊칊먬 쿰?휼킕 봺? 봶?돿 
+래뇟떋?쓆돘 ?뱻봞.)
+  My mission is to have talks with you on related small matters and to 
+sign the contract.
+  (륾톩 런쥈밻 됃쓊뺼 촡?톩 쵡쫨킕 봺? 봶?돿 톩?밻 덒돿 뎮뇨п킕 
+촡램?밻 덒럼뱻봞.) @ff
+  @[  4. 譏 틭래륾 쫨툈 틭톩 뎩턿
+
+    譏 틭랭 쁺
+  Can I wait?
+  (툪늏 떋봞윪똞턠?)
+  All right, I'll wait.
+  (큛뎈칢뱻봞, 떋봞윞뎈칢뱻봞.)
+
+    쫨툈 틭랭 쁺
+  May I ask when he's coming back?
+  Do you know what time he will be in?
+  What time is he expected back?
+  When is he expected back?
+  When will he be (or come) back?
+  (땇밻 닷툪퓉 빀큑덧뎈칢뱻똞?)
+  When will he be available?
+  (땇늏 죣 ? 몹븸죇 덧?뱻똞?)
+  What time would you like me to call you again?
+  (죣 ?킕 봞? 멨譏 뾞윞죇 뻀똞턠?)
+
+    봞? 덆봞.
+  I'll call you back.
+  (봞? 덆뎈칢뱻봞.)
+  Let me call you back later.
+  (륾틭킕 봞? 덆뎈칢뱻봞.)
+  I'll call again.
+  (솪 멨譏?뎈칢뱻봞.)
+  I'll call again later.
+  (?킕 봞? 멨譏?뎈칢뱻봞.)
+  OK, I'll call you again in 30minutes. Thank you.
+  (땇쒛 30쫭 ?킕 솪 멨譏?뎈칢뱻봞. 늫촡?뱻봞.)
+  Let me call you back in two hours.
+  (2?늖 ?킕 봞? 멨譏?뎈칢뱻봞.)
+
+    좥?빨웙 쫨??봞.
+  I would like to leave a message.
+  (좥?빨웙 릕떋븸 ?칢뱻봞.)
+  Will you take a message (for him)?
+  Would you like to leave a message for her?
+  (땇멲킕덦 좥?빨웙 릕뎎 틒?뎈칢뱻똞?)
+  Could (or Can, May) I leave a message (for him)?
+  (땇킕덦 좥?빨웙 릕뎎븸 뻀똞턠?)
+
+    좥?빨톩 릟턻톓 쟧?봞.
+  Would you just tell him that I called, please?
+  (툪늏 멨譏웙 ?봞돘 땇킕덦 멨? 틒?뎈칢뱻똞?)
+  Will you tell him that Lee Mi-ran called?
+  (래！쐃끝씉쫨휼 멨譏늏 둬봞밻 덒톓 멨? 틒?뎈칢뱻똞?)
+
+    좥?빨톩 릟턻톓 쟧?봞.
+  Please tell him that Mr. Kim called.
+  (！칊휼 떛톋씉쫨휼 멨譏늏 둬봞돘 멨?틒??덧.)
+  Just tell him I called. I'll call him again later.
+  (땇킕덦 툪늏 멨譏?봞돘 멨?틒??덧. 륾틭킕 툪늏 봞? 멨譏?뎈칢뱻봞.)
+  Please tell Mr. Brown. I'm Mr. Choi of ABC Company of Seoul. I arrived 
+last night and want to talk with him about some business he must know 
+about. I will call your office tomorrow about this time.
+  (！칊휼 쬪쏿텈킕덦 멨?틒??덧. 멜밻 п텎 ABC촡톩 ！칊휼 헊쏿돘 ?뱻봞. 
+닯퉆쨜 래돲킕 븸픟?밻뷒 땇쫭래 큛큑뻶닯뇟 ? 랭씉 촻봰?돘 ?칢뱻봞. 릟랭 래 
+?늖킕 봞? 멨譏 뾞윞뎈칢뱻봞.)
+
+    멨譏웙 쫨??봞.
+  Would you ask him to call Mr. Kim when he comes back?
+  (땇늏 빀큑덧죇 ！칊휼 떛킕덦 멨譏? 봧쏿돘 멨?틒?뎈칢뱻똞?)
+  Will you tell him to call me back?
+  (땇킕덦 멜?? 멨譏? 봧쏿돘 멨?틒?뎈칢뱻똞?)
+  Please ask him to call me as soon as he gets back.
+  (땇늏 빀큑덧밻 봺씉 멜킕덦 멨譏? 봧쏿돘 멨?틒??덧.)
+  Could you have him call me as soon as he's free?)
+  (땇늏 ?늏?빨죇 팦? 멜킕덦 멨譏? 봧쏿돘 ?틒?뎈칢뱻똞?)
+  My number is 928-1505.
+  (툪 멨譏ㅵ朞밻 928-1505럼뱻봞.)
+  He knows my number.
+  (땇밻 툪 멨譏ㅵ朞웙 큛돘 렀칢뱻봞.)
+  Please ask him to call Mr. Park, 928-1505, as soon as he gets back.
+  (땇쫭래 빀큑덧?밻 봺씉 928-1505톩 ！칊휼 쨆킕덦 멨譏틒?쏿돘 
+멨?틒??덧.) @ff
+  @[  5. 멨譏웙 쨑봞.
+
+    멨譏킕 톣봲?봞.
+  Hello.
+  Speaking.
+  (킳ⅰ쵡턠.)
+  Yes, Kim speaking.
+  This is Mr. Kim speaking.
+  (탛 ！칊휼 떛럼뱻봞.)
+  That's me.
+  This is he (or she).
+  (멨뷒턠.)
+
+    래웥톓 쥏봞.
+  May I ask who's calling?
+  Who is this calling, please.
+  Who is speaking, please.
+  (뭲뒃?뱻똞?)
+  Lee Han-sang speaking. Who is this calling, please.
+  (래?촻럼뱻봞쟢, 뭲뒃?뱻똞?)
+  May I have your name, please?
+  (??래 닯섫덦 뺸?뱻똞?)
+  Can you spell that, please?
+  (??톩 잰퇫웙 늏웏햌 틒?뎈칢뱻똞?)
+
+    턻덂톓 쥏봞.
+  May I help you?
+  What can I do for you?
+  (쥈칎 랭래?뱻똞?)
+
+    촻봺쨢톓 豈램?봞.
+  Who are you calling?
+  Who would you like to speak to?
+  (뭲뒃킕덦 멨譏?춚칢뱻똞?)
+  Who did you say you'd like to talk to?
+  (땇 촡쐑톩 래웥래 ⇒쏿돘 ?붷늏턠?)
+
+    쫨п웙 豈램?봞.
+  What section is he in?
+  Do you know what department he's in?
+  (땇 촡쐑톩 쫨п웙 큛돘 뎮?뱻똞?)
+  What section (or department) are you calling?
+  (닯밶 쫨п킕 멨譏?춚칢뱻똞?)
+
+    빓죟래램랭 뎩턿
+  We have two Kim Sang-soo. May I have his department?
+  (떛 촻츃밻 2 죟래 렀밻뷒, 쫨п웙 쟧쿿? 틒?뎈칢뱻똞?)
+  We have two Kim as a matter of fact. Would you talk to Kim Sang-soo 
+or Kim Min-ho?
+  (턿윞 ?촡킕밻 촡? 떛끝늏 뻶 죟램뷒 떛 촻츃끝럼뱻똞, 떛 ％朞끝럼뱻똞?)
+
+    뺸쥒톛
+  I beg your pardon?
+  Beg your pardon?
+  Pardon me?
+  Pardon.
+  (?ㅵ 붳 쟧쿿? 틒?뎈칢뱻똞?)
+  May I have your name again, please?
+  What's your name again, please?
+  (??톓 ?ㅵ 붳 쟧쿿? 틒?뎈칢뱻똞?)
+  How do you spell that?
+  ??톩 잰퇫웙 쟧쿿? 틒?뎈칢뱻똞?)
+  I'm sorry, could you repeat that, please?
+  (！큖?뱻봞쟢, ?ㅵ 붳 쟧쿿? 틒?뎈칢뱻똞?)
+  I'm sorry, could you speak up a little?
+  (튍??뱻봞쟢, 묽붳 ??윞씉 쟧쿿? 틒?뎈칢뱻똞?)
+  Pardon me? I can't hear you very well.
+  (? ㅵ 붳 쟧쿿? 틒?뎈칢뱻똞? 퇳 큖 뾦윹뱻봞.)
+  Sorry, I didn't quite catch that.
+  (튍??뱻봞쟢, 퇳 〉 뾦덕칢뱻봞.)
+  Please speak a little more slowly.
+  (묀땞쟢 붳 장장丹 쟧쿿? 틒?뎈칢뱻똞?)
+
+    퇳〉 덆쓆데 멨譏
+  This is 928-1505. What number are you calling?
+  This is 928-1505. What number did you dial?
+  (킳떋밻 928-1505럼뱻봞. 죣 ㅵ톋씉 멨譏?춚칢뱻똞?)
+  I'm sorry. I think you've got the wrong number.
+  I'm sorry. you have the wrong number.
+  (튍??뱻봞. 멨譏웙 퇳〉 덆톋춚칢뱻봞.)
+  There's no such person here. You must have the wrong number.
+  (땇쒎 촡쐑톏 래돲킕 댜칢뱻봞. 멨譏웙 퇳〉 덆덕칢뱻봞.) @ff
+  @[  6. 멨譏웙 킻뎘?휺 틒봞.
+
+    떋봞쓆 봧쏿돘 ?봞.
+  One moment, please.
+  Just a minute, please.
+  Please hold on.
+  Hold on, please.
+  Hold the line, please.
+  (퇽?쟢 떋봞쓆틒??덧.)
+  Will you hold the line a moment, please?
+  (퇽? 떋봞쓆 틒?뎈칢뱻똞?)
+  Yes, Mr. Brown, hold on a minute, please.
+  (탛, ！칊휼 쬪쏿텈. 퇽? 떋봞쓆 틒??덧.)
+  Thank you for waiting.
+  (떋봞쓆 틒춁п 늫촡?뱻봞.)
+  I'm sorry to keep you waiting.
+  I'm sorry to have kept you waiting.
+  (떋봞윞덦 ?п 튍??뱻봞.)
+  The line (or number) is busy.
+  (빨땞 譏 틭럼뱻봞.)
+
+    ⅴ램킕덦 쨅렊틒봞.
+  I'll put you through to Mr. Choi.
+  (멨譏웙 ！칊휼 헊킕덦 빀쓆 뾞윞뎈칢뱻봞.)
+  Mr. Brown, Mr. Black is on the phone.
+  (！칊휼 쬪쏿텈, ！칊휼 쬲쐜톋씉쫨휼 멨譏럼뱻봞.)
+  Mr. Brown, you are wanted on the phone.
+  Mr. Brown, telephone.
+  (！칊휼 쬪쏿텈, 멨譏럼뱻봞.)
+
+    됃뎮쫨п씉 빀윞봞.
+  I'll connect you with the department concerned.
+  (멨譏웙 봰봶 쫨п씉 킻뎘? 뾞윞뎈칢뱻봞.)
+  I'll put you through to the Export Section.
+  (멨譏웙 츃혟돿씉 킻뎘? 뾞윞뎈칢뱻봞.)
+  I'll pass you to the manager of General Affairs.
+  (멨譏웙 족쥈돿툃킕덦 킻뎘? 뾞윞뎈칢뱻봞.)
+  He's in the Export Section. Let me put you through to him. Just hold on, 
+please.
+  (땇 촡쐑톏 츃혟돿킕 렀칢뱻봞. 땇숱톋씉 빀윞뎈칢뱻봞. 래봺씉 떋봞쓆 틒??덧.)
+
+    릟у톋씉 빀윞봞.
+  I'll switch this call to Extension 345.
+  (뒃릟 345ㅵ톋씉 킻뎘? 뾞윞뎈칢뱻봞.)
+
+    킻뎘? 츃 댜밻 뎩턿
+  I'm sorry but I can't transfer this call to him. Could you call again and 
+dial 928-1505, please.
+  (튍??뱻봞쟢, 땇숱톋씉 킻뎘?푯 츃 댜톋뱻 928-1505씉 봞? 덆닯 
+틒?뎈칢뱻똞?) @ff
+  @[  7. ⅴ램 봺? 멨譏 쨑톓 쁺
+
+    멨譏 틭랭 쁺
+  He's talking on another line.
+  (땇밻 빨땞 봞웕 멨譏웙 쨑돘 렀칢뱻봞.)
+  He's on another phone. Would you like to wait?
+  (빨땞 봞웕 멨譏웙 쨑돘 렀밻뷒, 떋봞쓆 틒?뎈칢뱻똞?)
+  Sorry, Mr. Park is on the other phone. Please hold on a minute.
+  (튍??뱻봞쟢, ！칊휼 쨆톏 빨땞 봞웕 멨譏웙 쨑돘 렀칢뱻봞. 퇽? 떋봞쓆 
+틒??덧.)
+  Sorry, he's still on the line.
+  (！큖?뱻봞. 땇밻 큑빪 譏 틭럼뱻봞.)
+  Could you call him again later?
+  (륾틭킕 ?ㅵ 붳 멨譏? 틒?뎈칢뱻똞?)
+  Shall I have him call you back later?
+  (땇킕덦 륾틭킕 봶?킕덦 멨譏?쏿돘 멨?똞턠?)
+  Shall I put you through to someone else?
+  (봞웕 촡쐑톓 쨅렊뾞윪똞턠?)
+
+    퇫윞킕 댜톓 쁺
+  I'm sorry, but Mr. Jung is not at his desk right now.
+  (튍??뱻봞쟢, 빨땞 ！칊휼 몹톏 퇫윞킕 댜칢뱻봞.)
+  He should be somewhere in the office, but he's not at his desk at the 
+moment.
+  (땇밻 촡릟 닯뿥늏킕 렀톓 덐뱻봞쟢, 빨땞톏 퇫윞킕 댜칢뱻봞.)
+
+    쨅쳃 쁺
+  I'm afraid he's not available now.
+  Sorry, he can't come to the phone right now.
+  (튍??빨쟢, 땇늏 빨땞톏 멨譏웙 쨑톓 츃 댜칢뱻봞.)
+  Sorry, he's tied up at the moment.
+  (튍??뱻봞쟢, 땇늏 빨땞톏 쟻턿 쨅쳒뱻봞.)
+
+    ?톩 틭랭 쁺
+  I'm sorry. He's attending a meeting.
+  I'm sorry. He's in a meeting now.
+  I'm sorry. He's in conference.
+  (튍??뱻봞. 땇밻 빨땞 ?톩 틭럼뱻봞.)
+
+    턅혟 틭랭 쁺
+  He's out now.
+  He's not in now (or at the moment)
+  He's not in the office.
+  He's not available right now.
+  He's not home now.
+  (땇밻 빨땞 턅혟 틭럼뱻봞.)
+  Sorry, Mr. Choi is out of the office now.
+  (튍??뱻봞쟢, 빨땞 ！칊휼 헊밻 턅혟 틭럼뱻봞.)
+  I'm sorry, but Mr. Kim's gone for the day.
+  (튍??뱻봞쟢, ！칊휼 떛톏 덧밿 턅혟? 빀큑덧빨 큙칢뱻봞.)
+  Shall I have him call you when he comes in?
+  (땇늏 빀큑덧죇 멨譏?쏿돘 ?똞턠?)
+  I'll have him call you when he gets back.
+  (땇늏 빀큑덧죇 멨譏?쏿돘 ?뎈칢뱻봞.)
+
+    혟툃 틭랭 쁺
+  I'm sorry, but he's on a business trip to Pusan now.
+  (튍??뱻봞쟢, 땇밻 빨땞 쫨촦킕 혟툃 늲칢뱻봞.)
+  He left for London on business the day before yesterday.
+  (땇멜뛃 땇밻 쒎붷톋씉 혟툃 늲칢뱻봞.)
+
+    멨땎톩 뎩턿
+  He has been transferred to the Pusan office.
+  (땇밻 쫨촦 빨목톋씉 멨땎 늲칢뱻봞.)
+  He's now at the Pusan office.
+  (땇밻 빨땞 쫨촦 빨목킕п 땎쥈웙 ?돘 렀칢뱻봞.)
+
+    ?늏 쁺
+  He's not working today.
+  He's off today.
+  (땇밻 덧밿 ?뱻봞.)
+
+    ?빪?톓 쁺
+  I'm sorry, he's not working here anymore.
+  (튍??뱻봞쟢, 땇밻 ?빪?칢뱻봞.)
+
+    좥?빨웙 쥏봞.
+  Would you like to leave a message?
+  Is there any message?
+  (좥?빨웙 릕뎎 틒?뎈칢뱻똞?)
+  Can I take a message (for him)?
+  (멜킕덦 좥?빨웙 릕뎎틒?뎈칢뱻똞?)
+  He should be back soon. Shall I give him a message?
+  (땇늏 돣 빀큑뎀 덒래쏿돘 쵕늒?뱻봞쟢, 땇킕덦 좥?빨웙 릕떓똞턠?)
+  Just a moment., please. Let me get something to write on.
+  (퇽?쟢 떋봞쓆 틒??덧. 좥　? 틗㎕웙 ?뎈칢뱻봞.)
+  Thank you for calling. I'll be sure he gets your message.
+  (멨譏? 틒춁п 늫촡?뱻봞. 땇킕덦 봶?톩 좥?빨웙 뜟 멨?뎈칢뱻봞.)
+  Certainly, I'll tell Mr. Lee the appointment with Mr. Brown on Monday 
+was canceled.
+  (?윶댜래 땐턠랭 ！칊휼 쬪쏿텈돿톩 뇨?래 쭐?뺯봞돘 ！칊휼 윞킕덦 
+멨?뎈칢뱻봞.)
+
+    봺? 톣봲? 뎩턿
+  Could I do something for you?
+  Could I be of some assistance?
+  (툪늏 븸돝뾞윪 랭래 렀칢뱻똞?)
+  Can someone else help you?
+  Is there anyone else who can help?
+  (봞웕 촡쐑래쏿븸 됧픤톋?뱻똞?) @ff
+  @[  8. 죇? ?쟤톓 쨑톓 쁺
+
+    탛몹톓 豈램?봞.
+  I'll check my schedule for this week.
+  (래ㅵ 틒 멜톩 칊휕틝톓 豈램?븸씊 ?뎈칢뱻봞.)
+  I can make it sometime next week.
+  (봞톛 틒쏿죇 됧픤칢뱻봞.)
+  I can make it either Tuesday or Wednesday.
+  (譏턠랭래륾 츃턠랭래쏿죇 됧픤칢뱻봞.)
+  I can make it either Monday or Friday after 3.
+  (땐턠랭래륾 땞턠랭톩 덧? 3? 래?쏿죇 됧픤칢뱻봞.)
+
+    탛몹톓 豈램?봞.
+  I have no engagements that day.
+  (땇 릋톏 뇨?래 댜칢뱻봞.)
+  I have nothing in particular to do tomorrow.
+  (릟랭톏 ?쩳? 탛몹래 큑쥈 덒븸 댜칢뱻봞.)
+  That's good. I have no appointment in the morning that day.
+  (뭣칢뱻봞. 땇릋 덧멨 틭킕밻 뇨?래 댜칢뱻봞.)
+  Yes, I can meet you on Tuesday for sure. I have no other business that 
+day.
+  (탛, 譏턠랭킕밻 ?윶댜래 쟢릋 츃 렀칢뱻봞. 땇릋톏 봞웕 랭래 댜칢뱻봞.)
+  Since I have to attend a company meeting from 11 a.m. that day, I would 
+say I can meet you for about an hour or so until then.
+  (땇릋톏 11?킕 촡릟톩 ?톩늏 렀닯п 땇쁺똞빨 1?늖 늏쑘 쟢릋 츃 렀봞돘 
+쵕늒?뱻봞.)
+  I'm free this afternoon.
+  (덧밿 덧?밻 ?늖래 렀칢뱻봞.)
+  I'm free for about an hour after 2.
+  (2? 래?킕밻 1?늖 몹븸 ?늖래 렀칢뱻봞.)
+  Yes, I'm free at 9 in the morning or 2 in the afternoon.
+  (멇, 덧멨 9?륾 덧? 2?킕밻 ?늖래 렀칢뱻봞.)
+  Fine, I will be free all morning next Wednesday.
+  (뭣칢뱻봞. 봞톛 틒 츃턠랭톏 덧멨 릟릟 ㎕닯 렀칢뱻봞.)
+
+    죇?웙 칦륿?봞.
+  You're quite welcome.
+  (봶?톓 몹쟧씉 錤탗?뱻봞.)
+  Yes, of course. Drop in any time. I'll be in the office (home) all day 
+(afternoon).
+  (탛, 쥒씎럼뱻봞. 닷툪쏿븸 뾦쒊 틒??덧. ?엨 뭍랭'덧?' 촡쥈?'뺙'킕 
+렀톋뱻똞턠.)
+  Good news. I'll be looking forward to meeting you.
+  (뭣톏 ??럼뱻봞. 팱댾텈 쟞톛톋씉 떋봞윞뎈칢뱻봞.)
+  You're quite welcome. And may I ask you about the purpose of your visit 
+to Korea?
+  (봺錤탗럼뱻봞. 땇쒊죇 래ㅵ톩 ?뒄 쨢쥌톩 、멤톓 뾦쓆틒?뎈칢뱻똞?)
+  Thanks for calling. Bye.
+  (멨譏? 벙п 돘쟞땀. 땇쒛 큖몏.)
+
+    촡몹래 뭣빨 큙봞.
+  I'm sorry but I'll be busy that day.
+  (튍??뱻봞쟢, 땇릋톏 툪늏 쨅쳒뱻봞.)
+  I'm afraid I can't make it that early.
+  (큑쥈쐛븸 땇쒨덦 쮑윞밻 蛋뾦봞돘 쵕늒?뱻봞.)
+  I can't meet you at 1 o'clock in the afternoon because I have to meet Mr. 
+White at that time.
+  (땇 ?늖킕밻 ！칊휼 譏래?웙 쟢륾뇟 ?떋 쁺쥌킕 덧? 1?킕밻 봶?톓 쟢릋 츃 
+댜칢뱻봞.)
+  I hope you'll be able to come another time.
+  (봞톛 떋?킕 덧? 츃 렀떋웙 ?쟷?뱻봞.)
+  Why don't we make it another time?
+  (봞웕 ?늖톋씉 ?밻 덒톏 닯섫칢뱻똞?)
+  Can I change to another day?
+  (봞웕 릋씉 쨅럦 츃 렀톓똞턠?)
+
+    ?늖톓 豈램?봞.
+  When are you planning to come here?
+  (닷툪 래돲킕 덧? 뎮?럼뱻똞?)
+  What time shall we meet?
+  (죣 ?킕 쟢릋똞턠?)
+  How soon can you come and talk with me?
+  (닷툪퓉 래돲킕 덧춁п 멜돝 촻봰? 츃 렀뎈칢뱻똞?)
+  Could you come over here at about nine?
+  (9?퓉 래돲킕 덧?뎈칢뱻똞?)
+  I prefer the morning (afternoon).
+  (덧멨'덧?'래 뭣뎈칢뱻봞.)
+  Any time that suits you is good with me.
+  (봶?래 뭣톏 ?늖래죇 닷툪쏿븸 멜밻 됧픤칢뱻봞.)
+  At your convenience.
+  Any time is OK.
+  (닷툪쏿븸 뭣칢뱻봞.)
+  Good. See you tomorrow.
+  (땇쒛, 릟랭 쟢릗?봞.)
+  See you at 4 on Monday.
+  (땐턠랭 4?킕 쪺뎈칢뱻봞.) @ff
+  @[  9. 뒄툪멨譏웙 ?쟤? 쁺
+
+    둧錤땅톓 쫨웏봞.
+  I'd like to get the International Telephone Call Service.
+  (뒄툪멨譏웙 ?쟤?돘 ?칢뱻봞.)
+  How do I get the operator?
+  (둧錤톓 쫨웏쓆죇 닯섫덦 ?죇 뻊뱻똞?)
+  Operator, please.
+  (둧錤톓 쫨??뱻봞.)
+  Can I make an international phone call from this phone?
+  (래 멨譏씉 뒄툪멨譏웙 ? 츃 렀칢뱻똞?)
+
+    툃댾윞 멨譏웙 ?쟤
+  I'd like to make (or place) a long distance call to Seattle.
+  (?큱?똞빨 툃댾윞 멨譏웙 ?돘 ?칢뱻봞.)
+
+    봞래닻 譏
+  Can I make a direct dial call to Korea from my room?
+  (툪 쨢킕п ?뒄톋씉 빪몬 멨譏譏늏 뻊뱻똞?)
+  Can I dial directly?
+  (빪몬 멨譏? 츃 렀칢뱻똞?)
+
+    훍뾞 譏
+  I'd like to make a credit card call.
+  (?쒪뿠? 훍뾞씉 멨譏웙 ?돘 ?칢뱻봞.)
+  I want to place a credit card call to Korea. My credit card number is 
+012-0034567.
+  (?뒄킕 ?쒪뿠? 훍뾞씉 멨譏웙 ?돘 ?칢뱻봞. 멜톩 ?쒪뿠? 훍뾞 ㅵ朞밻 
+012-0034567럼뱻봞.)
+
+    크쒫? 크
+  I want to make (or please) an overseas collect call to Korea.
+  (크쒫? 크씉 ?뒄킕 뒄툪멨譏웙 ?돘 ?칢뱻봞.)
+  Make it a collect call, please.
+  (크쒫? 크톓 쫨??뱻봞.)
+  The telephone number is area code 02, and 928-6562 for Mr. Choi.
+  (멨譏ㅵ朞밻 빨킶ㅵ朞 02, 땇윞돘 928-6562ㅵ톩 ！칊휼 헊럼뱻봞.)
+  This is Mr. Kim in room 605.
+  (멜밻 605 朞?톩 ！칊휼 떛럼뱻봞.)
+
+    빨죟譏
+  I want to make an overseas personal call to Korea.
+  (?뒄킕 빨죟멨譏씉 뒄툪멨譏웙 ?돘 ?칢뱻봞.)
+  Make it a person-to-person call, please.
+  (빨죟譏씉 쫨??뱻봞.)
+  I'd like to place a person-to-person call to Mr. Kim Sang-soo in Seoul, 
+Korea. The number is 928-6562.
+  (빨죟譏웙 쫨??뱻봞. 촻봺밻 п텎톩 떛촻츃끝씉 ㅵ朞밻 928-6562럼뱻봞.)
+  My name is Kim Sang-soo, and my number is 928-6562.
+  (래숱톏 928-6562ㅵ톩 떛촻츃럼뱻봞.)
+
+    ㅵ朞 譏
+  I want to place (or make) an overseas station call to Korea.
+  (ㅵ朞譏씉 ?뒄킕 뒄툪 멨譏웙 ?돘 ?칢뱻봞.)
+  Make it a station-to-station call. please.
+  (ㅵ朞譏씉 쫨??뱻봞.)
+  Station-to-station call to Pusan, Korea, please.
+  (?뒄톩 쫨촦킕 ㅵ朞譏웙 쫨??뱻봞.)
+
+    譏턠땞톓 쥏봞.
+  How much does it cost for three minutes to Los Angeles?
+  (씉칊큶툶쒪칊똞빨 3쫭 빓큖 닻쟞럼뱻똞?)
+  How much was the call?
+  (빨땞톩 譏얷밻 닻쟞럼뱻똞?)
+  Are there special evening rates?
+  (뇟늖 ?램톏 렀칢뱻똞?)
+  Is it cheaper on Sunday?
+  (랭턠랭톏 붳 컎뱻똞?)
+  Let me know the charge later, please.
+  (륾틭킕 턠땞톓 큛쓆틒쵡턠.)
+
+    둧錤톋씉쫨휼톩 朞혟
+  We have an overseas collect call from Korea.
+  (?뒄킕п 크쒫? 크 뒄툪멨譏늏 둬칢뱻봞.)
+  Will you accept the charges?
+  (크쒫? 크톓 쨑톋?뎈칢뱻똞?)
+  Hang up, please.
+  (랭봢 뢦돘 떋봞쓆 틒??덧.)
+  Hold the line, please.
+  (떋봞쓆 틒??덧.)
+  Mr. Park is on the line, Go ahead, please.
+  (！칊휼 쨆래 륾둬칢뱻봞. 쟧쿿???덧.)
+
+

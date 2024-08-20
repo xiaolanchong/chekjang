@@ -1,0 +1,53 @@
+﻿타임머신
+ 노크 소리가 났다. 내가 먹다 만 귤 껍질을 코타츠 위에 놓아두고 현관으로 나가보았더니, 거기에는 와타나베 노보루(수도 수리공이자 연필깎이 수집가)가 서 있었다. 이미 저녁 여섯 시 반이었기 때문에 와타나베 노보루는 "안녕하세요."라고 말했다. "안녕하세요."하고 나도 어떻게 된 영문인지 잘 몰랐지만 대답했다. "저어, 그런데 수리를 부탁한 적이 없는데." "네, 그건 알고 있습니다. 오늘은 제가 부탁이 있어서 찾아왔습니다. 사실은 댁에 구형 타임 머신이 있다는 얘기를 들었거든요. 그래서 만일 괜찮으시다면 신형과 교환해주셨으면 하고......" '타임 머신?' 하고 나는 깜짝 놀라서 머릿속에서 그 말을 되풀이했지만, 그 놀람을 얼굴에 나타내지는 않았다."있지." 하고 나는 아무렇지도 않은 듯이 말했다. "한번 볼래?" "네, 그야 뭐 보여주시기만 한다면야." 나는 와타나베 노보루를 내 방으로 데리고 가서, 귤 껍질이 놓인 채인 전기 코타츠를 보였다. 그리고 "자, 타임 머신."이라고 말해 주었다. 나에게도 조금쯤은 유머 감각이 있다. 그러나 와타나베 노보루는 웃지 않았다. 그는 코타츠를 덮고 있는 이불을 들추고 진지한 얼굴로 스위치를 빙글빙글 돌려보고, 눈금을 체크하고, 네 다리를 하나씩 잡아당겨 보았다. "야, 선생님, 이건 정말 일품입니다." 그는 한숨을 쉬면서 말했다. "굉장한데요. 쇼와(昭和) 46년형 내셔널의 '따끈따끈'입니다. 선생님도 이걸로 무척 기분 좋게 지내셨겠죠?"
+
+ "응, 그야 뭐 그렇지." 나는 적당히 말해두었다. 다리가 하나 약간 흔들거리지만, 따뜻하기는 따뜻하다. 와타나베 노보루가 그것을 새 타임 머신과 바꿀 수 없겠느냐고 하길래 "좋아."라고 나는 대답했다. 와타나베 노보루는 밖으로 나가서 집 앞에 주차해놓은 라이트 에이스의 짐칸에서, 상자도 안 뜯은 신품 전기 코타츠(혹은 타임 머신)를 끌어냈다. 그리고는 그것을 내 방으로 들여놓고, 대신에 내셔널의 '따끈따끈'(혹은 타임 머신)을 끌어안고 나갔다. "언제나 죄송합니다." 와타나베 노보루는 이렇게 말하고 운전석에서 손을 흔들었다. 나도 손을 흔들었다. 나는 방으로 돌아와 귤을 마저 먹었다.
+<HTML>
+<HEAD>
+<TITLE> etext down page </TITLE>
+<SCRIPT Language="Javascript">
+<!-- 
+function save(){
+
+	var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>';
+	document.body.insertAdjacentHTML('beforeEnd', WebBrowser);
+	WebBrowser1.ExecWB(4, 2);
+	}
+
+-->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" >
+<br>
+       <table width=400 border=0 cellpadding=0 cellspacing=0 align=center valign='top'>
+	   <tr height=28>
+	    <td width=28 background=../bd_image/bd_top_left_green1.gif></td>
+		<td bgcolor=#c1e51d><font size=3><b><i>Downloading ETEXT</i><b></font></td>
+		<td width=28 background=../bd_image/bd_top_right_green1.gif></td>
+		</tr>
+
+        <td width=28 bgcolor=#d1d1d1></td>
+		<td bgcolor=#d1d1d1><br><br>
+		&nbsp;&nbsp;etext를 이용해 주셔서 감사합니다. 저희 etext는 아직은 많이 모자라지만, 계속해서 업데이트 되고 만들어가는 공간이니 자주 들려 주시기 바랍니다.
+		<br> &nbsp;Palm사용자 여러분이 경우엔, .prc 파일의 다운로드 창이 뜨면 적절히 저장위치를 선택하시면 됩니다. <br>
+		&nbsp;&nbsp;셀비안(Cellvic) 여러분, 그리고 WindowsCE계열, 또는 Newton이나 Psion 사용자 여러분들은 .ZIP 파일 형태로 제공되는 etext를 압축을 풀어서 저장하시면 됩니다. <br>
+		 &nbsp;다 받으신 다음에는 아래의 버튼을 클릭하시면 계속해서 etext를 여행하실 수 있습니다.
+		<br><br>
+		</td>
+		<td width=28 bgcolor=#d1d1d1></td>
+		</tr>
+
+		<tr>
+		<td colspan=3 bgcolor=#d1d1d1 align=center>
+		&nbsp; http://www.dlife.co.kr&nbsp;<input type=image src=../icon/bd_goback_gr.gif align=absmiddle border=0 onclick=history.go(-1)>
+		</td>
+		</tr>
+	  <tr height=28>
+	    <td width=28 background=../bd_image/bd_left_bottom_gray.gif></td>
+	    <td bgcolor=#d1d1d1></td>
+	    <td width=28 background=../bd_image/bd_right_bottom_gray.gif></td>
+          </tr>
+		</table>
+	   </BODY>
+</HTML>

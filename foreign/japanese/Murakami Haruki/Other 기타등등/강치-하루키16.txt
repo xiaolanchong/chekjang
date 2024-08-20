@@ -1,0 +1,54 @@
+﻿강치
+강치는 고독했다.
+친구가 없기 때문은 아니다. 몇 명의 친구가 있었고, 함께 마작도 했다.이기기도 하고 지기도 하여, 따져 보면 승패가 거의 비슷했다. 이따금 술을 마시는 데 불려가기도 한다.여자 친구도 있었다. 두 시간 동안 다섯 번이나 섹스를 할 수도 있었다. 한 시간당 2.5회이므로, 강치의 평균 횟수에 비하면 어지간한 편이다. 하긴 강치에게는 전희가 필요하지 않으므로, 그다지 시간이 걸리는 건 아니지만 말이다. 또 배가고파서도 아니다. 전갱이 따위는 닥치는 대로먹을 수 있었다. 그럼에도 불구하고 강치는 고독했다. 바다에 떠올라 멍하니 하늘을 바라보고 있으면, 강치는 자신이 강치인 데에 대한 무한한 허무감을 느끼는 것이다. 
+`왜 나는 강치인 것일까` 하고그는 생각하는 것이었다.녀석이 요즘 이상하다는 소문이 강치들 사이에 이내 퍼졌다.원래 강치들의 세계는 너무 좁아서 소문은 금방 퍼졌다. ``지난번에 마작을 할때에, 천화를 올리고 있으면서도, 그녀석은더블 리치를 걸고 있었다구`` 하고 한 마리가 말했다.``아니, 지난번에는 롯폰기의 교차로에서 차에 치일 뻔했어`` 하고 또다른 강치가 말했다.대선배인 강치는 걱정이 되어 그에게전화를 걸었다.``쓸데없는 참견인지도 모르겠지만 뭐라고 할까, 모두들 걱정을 하고 있기에....````네..`` 하고 강치는 말했다.``아니, 저 말하기 싫다면 어쩔 수 없지만 그러니까... 고민거리라도있는 게 아닌가 해서..`` ``네..`` ``배가 고파서 그런 것도 아니지?`` ``배불리 먹고 있습니다.`` ``마스터베이션이라든지, 그런..`` ``여자는 있어요.`` 대선배인 강치는 단념하고 전화를 끊었다.``잘 모르겠는데 뭔가 고민이 있는 모양이야`` 하고 대선배인 강치는 다른 강치들에게 말했다.``곤란하군요`` 하고 모두들 말하고 입을 다물었다.``그래요, 강치 축제라도 벌입시다`` 하고 누군가가 말했다.아, 모두들 그게 좋겠다고 말했다. 강치라는 동물은 뭔가 곤란한 일이 있으면 반드시 강치 축제를 벌인다.
+강치 축제는 사흘 동안 밤낮으로 계속되었다. 그것은 실로 성대한 축제였다..
+<HTML>
+<HEAD>
+<TITLE> etext down page </TITLE>
+<SCRIPT Language="Javascript">
+<!-- 
+function save(){
+
+	var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>';
+	document.body.insertAdjacentHTML('beforeEnd', WebBrowser);
+	WebBrowser1.ExecWB(4, 2);
+	}
+
+-->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" >
+<br>
+       <table width=400 border=0 cellpadding=0 cellspacing=0 align=center valign='top'>
+	   <tr height=28>
+	    <td width=28 background=../bd_image/bd_top_left_green1.gif></td>
+		<td bgcolor=#c1e51d><font size=3><b><i>Downloading ETEXT</i><b></font></td>
+		<td width=28 background=../bd_image/bd_top_right_green1.gif></td>
+		</tr>
+
+        <td width=28 bgcolor=#d1d1d1></td>
+		<td bgcolor=#d1d1d1><br><br>
+		&nbsp;&nbsp;etext를 이용해 주셔서 감사합니다. 저희 etext는 아직은 많이 모자라지만, 계속해서 업데이트 되고 만들어가는 공간이니 자주 들려 주시기 바랍니다.
+		<br> &nbsp;Palm사용자 여러분이 경우엔, .prc 파일의 다운로드 창이 뜨면 적절히 저장위치를 선택하시면 됩니다. <br>
+		&nbsp;&nbsp;셀비안(Cellvic) 여러분, 그리고 WindowsCE계열, 또는 Newton이나 Psion 사용자 여러분들은 .ZIP 파일 형태로 제공되는 etext를 압축을 풀어서 저장하시면 됩니다. <br>
+		 &nbsp;다 받으신 다음에는 아래의 버튼을 클릭하시면 계속해서 etext를 여행하실 수 있습니다.
+		<br><br>
+		</td>
+		<td width=28 bgcolor=#d1d1d1></td>
+		</tr>
+
+		<tr>
+		<td colspan=3 bgcolor=#d1d1d1 align=center>
+		&nbsp; http://www.dlife.co.kr&nbsp;<input type=image src=../icon/bd_goback_gr.gif align=absmiddle border=0 onclick=history.go(-1)>
+		</td>
+		</tr>
+	  <tr height=28>
+	    <td width=28 background=../bd_image/bd_left_bottom_gray.gif></td>
+	    <td bgcolor=#d1d1d1></td>
+	    <td width=28 background=../bd_image/bd_right_bottom_gray.gif></td>
+          </tr>
+		</table>
+	   </BODY>
+</HTML>

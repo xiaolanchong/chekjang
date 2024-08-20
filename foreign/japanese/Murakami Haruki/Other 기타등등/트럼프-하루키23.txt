@@ -1,0 +1,52 @@
+﻿트럼프
+ 훌리오 이글레시아스의 레코드가 닳아빠지고 나자, 바다거북의 공격에서 우리를 지킬 수단은 무엇 하나 남아 있지 않았다. 우리는 매일 밤 훌리오 이글레시아스의 '비긴 더 비긴' 을 틂으로써 간신히 바다거북을 집 주변에 가까이 오지 못하게 했던 것이다. "우린 이제 끝장이군요." 그녀가 말했다. "모기향도, 훌리오의 레코드도 없어져버렸고." "아냐, 틀림없이 무슨 좋은 수가 있을 거야." 내가 말했다. "윌리 넬슨이라든가 아바라든가, 리차드클레이더만은 안 될까요?" "아마 안 될 거야. 바다거북한테는 훌리오밖엔 효험이 없어." 나는 그걸 알 수 있었다. 나는 혼자 바닷가에 가서, 툭 튀어나온 바위위에서 바닷속을 들여다보았다. 바다거북은 여느 때처럼 바다 밑바닥에 가만히 웅크리고 낮잠을 자고 잇었다. 밤의 습격에 대비해서 힘을 비축하고 있는 것이다. 그러나 아무리 바다거북의 모습을 위에서 내려다보아도, 나한테는 새로운 격퇴법이 떠오르지 않았다. 지쳤기 때문에 상상력이라는 것이 전혀 작동하지 않는 것이다. 이번에야말로 우리들도 끝장이군, 나는 생각했다. 바다거북한테 먹혀서 삶을 마치다니 비참하다. 어머니가 들으시면 뭐라 하실까. 하나밖에 없는 외아들이 하필이면 바다거북한테 잡아먹혀서 생을 마쳤다니 말이지. 우리가 각오를 하고 마지막 저녁식사를 마치고, 느긋하게 차를 마시고 잇을 때 바다거북이 왔다. 철퍼덕 철퍼덕 하는 발걸음 소리가 다가오고, 그 소리가 집 주위를 천천히 한 바퀴 돌았다. "이제 끝났네요." 그녀가 내 손을 잡았다. "단념하자. 길지는 않았지만 즐거운 인생이었어."
+
+ 내가 말했다. 끼익--- 하는 소리와 함께 문이 열리고, 바다거북이 얼굴을 들이밀었다. 방 안에 모기향도 없고, 훌리오 이글레시아스도 틀어져 있지 않은 것을확인했다. 바다거북의 손에는 트럼프 한 벌이 꼭 쥐어져 있었다. 트럼프? 그때부터 우리는 매일 밤 셋이서 '51' 을 하면서 놀고 있다. 특별히 재미가 있는 것은 아니지만, 잡아먹힌 것보다는 훨씬 낫고, 게다가 우리들로서도 좋아서 매일 밤 훌리오 이글레시아스를 듣고 있었던 것은 아니었다.<HTML>
+<HEAD>
+<TITLE> etext down page </TITLE>
+<SCRIPT Language="Javascript">
+<!-- 
+function save(){
+
+	var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>';
+	document.body.insertAdjacentHTML('beforeEnd', WebBrowser);
+	WebBrowser1.ExecWB(4, 2);
+	}
+
+-->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" >
+<br>
+       <table width=400 border=0 cellpadding=0 cellspacing=0 align=center valign='top'>
+	   <tr height=28>
+	    <td width=28 background=../bd_image/bd_top_left_green1.gif></td>
+		<td bgcolor=#c1e51d><font size=3><b><i>Downloading ETEXT</i><b></font></td>
+		<td width=28 background=../bd_image/bd_top_right_green1.gif></td>
+		</tr>
+
+        <td width=28 bgcolor=#d1d1d1></td>
+		<td bgcolor=#d1d1d1><br><br>
+		&nbsp;&nbsp;etext를 이용해 주셔서 감사합니다. 저희 etext는 아직은 많이 모자라지만, 계속해서 업데이트 되고 만들어가는 공간이니 자주 들려 주시기 바랍니다.
+		<br> &nbsp;Palm사용자 여러분이 경우엔, .prc 파일의 다운로드 창이 뜨면 적절히 저장위치를 선택하시면 됩니다. <br>
+		&nbsp;&nbsp;셀비안(Cellvic) 여러분, 그리고 WindowsCE계열, 또는 Newton이나 Psion 사용자 여러분들은 .ZIP 파일 형태로 제공되는 etext를 압축을 풀어서 저장하시면 됩니다. <br>
+		 &nbsp;다 받으신 다음에는 아래의 버튼을 클릭하시면 계속해서 etext를 여행하실 수 있습니다.
+		<br><br>
+		</td>
+		<td width=28 bgcolor=#d1d1d1></td>
+		</tr>
+
+		<tr>
+		<td colspan=3 bgcolor=#d1d1d1 align=center>
+		&nbsp; http://www.dlife.co.kr&nbsp;<input type=image src=../icon/bd_goback_gr.gif align=absmiddle border=0 onclick=history.go(-1)>
+		</td>
+		</tr>
+	  <tr height=28>
+	    <td width=28 background=../bd_image/bd_left_bottom_gray.gif></td>
+	    <td bgcolor=#d1d1d1></td>
+	    <td width=28 background=../bd_image/bd_right_bottom_gray.gif></td>
+          </tr>
+		</table>
+	   </BODY>
+</HTML>
