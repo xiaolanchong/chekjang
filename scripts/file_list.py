@@ -43,6 +43,6 @@ def get_file_links(files_by_author):
     return contents
 
 
-author_dict = get_files_by_author(r'f:\wodetien\Korean\chekjang\foreign\classics')
+author_dict = get_files_by_author(r'f:\wodetien\Korean\chekjang\light novels')
 contents = get_file_links(author_dict)
 print(contents)
